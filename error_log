@@ -1,0 +1,22 @@
+[26-Oct-2021 08:51:14 UTC] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in /home/mechanicalpccoe/public_html/index.php on line 17
+[26-Oct-2021 08:51:14 UTC] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in /home/mechanicalpccoe/public_html/index.php on line 17
+[26-Oct-2021 08:51:14 UTC] PHP Warning:  include(): Failed opening 'nav.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mechanicalpccoe/public_html/index.php on line 17
+[26-Oct-2021 08:51:14 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/mechanicalpccoe/public_html/index.php on line 71
+[26-Oct-2021 08:51:14 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/mechanicalpccoe/public_html/index.php on line 71
+[26-Oct-2021 08:51:14 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mechanicalpccoe/public_html/index.php on line 71
+[26-Oct-2021 08:51:14 UTC] PHP Notice:  Undefined variable: conn in /home/mechanicalpccoe/public_html/index.php on line 73
+[26-Oct-2021 08:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/mechanicalpccoe/public_html/index.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/mechanicalpccoe/public_html/index.php on line 73
+[26-Oct-2021 08:51:44 UTC] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in /home/mechanicalpccoe/public_html/index.php on line 17
+[26-Oct-2021 08:51:44 UTC] PHP Warning:  include(nav.php): failed to open stream: No such file or directory in /home/mechanicalpccoe/public_html/index.php on line 17
+[26-Oct-2021 08:51:44 UTC] PHP Warning:  include(): Failed opening 'nav.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mechanicalpccoe/public_html/index.php on line 17
+[26-Oct-2021 08:51:44 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/mechanicalpccoe/public_html/index.php on line 71
+[26-Oct-2021 08:51:44 UTC] PHP Warning:  include(connect.php): failed to open stream: No such file or directory in /home/mechanicalpccoe/public_html/index.php on line 71
+[26-Oct-2021 08:51:44 UTC] PHP Warning:  include(): Failed opening 'connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/mechanicalpccoe/public_html/index.php on line 71
+[26-Oct-2021 08:51:44 UTC] PHP Notice:  Undefined variable: conn in /home/mechanicalpccoe/public_html/index.php on line 73
+[26-Oct-2021 08:51:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/mechanicalpccoe/public_html/index.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/mechanicalpccoe/public_html/index.php on line 73
