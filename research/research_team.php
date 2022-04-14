@@ -207,15 +207,15 @@
           </div>
           <div class="col-lg-3 col-sm-6">
             <div class="item    text-center">
-              <div class="text-center"><img src="../faculty photo/ARoy.jpg"></div>
-              <h6 class="h6 text-center">Dr. Anindita Roy</h6>
+              <div class="text-center"><img src="../faculty%20photo/Dr.%20Amrita%20Francis.jpg"></div>
+              <h6 class="h6 text-center">Dr. Amrita Francis</h6>
               <p class="description">Consultancy & revenue generation</p><br>
             </div>
           </div>
           <div class="col-lg-3 col-sm-6">
             <div class="item    text-center">
-              <div class="text-center"><img src="../faculty photo/CLLadekar.jpg"></div>
-              <h6 class="h6 text-center">Dr. Chandrakishore Ladekar</h6>
+              <div class="text-center"><img src="../faculty%20photo/Dr.%20Avinash%20Borgaonkar.JPG"></div>
+              <h6 class="h6 text-center">Dr. Avinash Borgaonkar</h6>
               <p class="description">Entrepreneurship Development</p><br>
             </div>
           </div>
@@ -234,14 +234,14 @@
             <div class="item    text-center">
               <div class="text-center"><img src="../faculty photo/RAGujar.webp"></div>
               <h6 class="h6 text-center">Prof. Rahul Gujar</h6>
-              <p class="description">Intellectual property rights</p><br>
+              <p class="description">Special Interest Group (SIG), Intellectual property rights</p><br>
             </div>
           </div>
           <div class="col-lg-3 col-sm-6">
             <div class="item    text-center">
-              <div class="text-center"><img src="../faculty photo/SVPatil.jpg"></div>
-              <h6 class="h6 text-center">Prof. Shweta Patil</h6>
-              <p class="description">R & D activities</p><br>
+              <div class="text-center"><img src="../faculty%20photo/SRWankhede.jpg"></div>
+              <h6 class="h6 text-center">Mr. S. R. Wankhede</h6>
+              <p class="description">Student Achievements</p><br>
             </div>
           </div>
         </div>
