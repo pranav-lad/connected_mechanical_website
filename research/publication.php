@@ -201,6 +201,108 @@
   <br>
   <table class="table table-hover table-borderless">
     <thead class="table-primary">
+      <tr?>
+          <th rowspan = "2">Sr. No.</th>
+          <th rowspan = "2">Academic Year</th>
+          <th rowspan = "2">Number of Papers</th>
+          <th colspan = "5">Indexed in (Journal + Conference/ Book Chapters)</th>
+  </tr>
+  <tr>
+          <th>SCI/ SCIE and Scopus Q1/ Q2</th>
+          <th>ESCI/ Scopus</th>
+          <th>Google Scholar</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2021-2022</td>
+      <td align="center">13</td>
+      <td align="center">5</td>
+      <td align="center">1 + 5</td>
+      <td align="center">2</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2020-2021</td>
+      <td align="center">22</td>
+      <td align="center">3</td>
+      <td align="center">1 + 6</td>
+      <td align="center">9 + 3</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2019-2020</td>
+      <td align="center">28</td>
+      <td align="center">2</td>
+      <td align="center">6 + 8</td>
+      <td align="center">10 + 2</td>
+    </tr>
+    <tr align="center">
+      <th colspan="2" align="center">Total</th>
+      <th align="center">63</td>
+      <th align="center">10</th>
+      <th align="center">27</th>
+      <th align="center">26</th>
+    </tr>
+  </tbody>
+  </table>
+  
+  
+  
+  
+  <table class="table table-hover table-borderless">
+    <thead class="table-primary">
+      <tr>
+          <th>Sr. No.</th>
+          <th >Academic Year</th>
+          <th >Number of Papers</th>
+          <th>International Journal</th>
+          <th>International Conference</th>
+          <th>Book Chapters</th>
+      </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2021-2022</td>
+      <td align="center">13</td>
+      <td align="center">8</td>
+      <td align="center">4</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2020-2021</td>
+      <td align="center">22</td>
+      <td align="center">13</td>
+      <td align="center">9</td>
+      <td align="center">0</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>2019-2020</td>
+      <td align="center">28</td>
+      <td align="center">18</td>
+      <td align="center">9</td>
+      <td align="center">1</td>
+    </tr>
+    <tr align="center">
+      <th colspan="2" align="center">Total</th>
+      <th align="center">63</td>
+      <th align="center">39</th>
+      <th align="center">22</th>
+      <th align="center">2</th>
+    </tr>
+  </tbody>
+  </table>
+  
+  
+  
+  
+  
+  <table class="table table-hover table-borderless">
+    <thead class="table-primary">
       <tr>
           <th>Sr. No.</th>
           <th >Academic Year</th>
@@ -270,14 +372,45 @@
   <div class="container-fluid title">Journal Papers : 
   </div>
   <br>
+  
+  
   <div class="accordion accordion-flush" id="accordionFlushExample1">
       <div class="accordion-item bg-light">
         <h2 class="accordion-header" id="flush-headingOne1">
           <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne1" aria-expanded="false" aria-controls="flush-collapseOne1">
-             <h6>A ) 2020-21</h6> 
+             <h6>>>> 2021-22</h6> 
           </button>
         </h2>
         <div id="flush-collapseOne1" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne1" data-bs-parent="#accordionFlushExample1">
+          <div class="accordion-body">
+            <ol class="my-list">
+              <li>Francis, A., Natarajan, S., Lee, C., and Budarapu, P. R., 2022, A cell-based smoothed finite element method for finite elasticity, International Journal for Computational Methods in Engineering Science and Mechanics, https://doi.org/10.1080/15502287.2022.2030427 (ESCI & Scopus) (Cite Score = 1.2).</li>
+              <li>Nukulwar, M. R., and Tungikar, V. B., 2022, Recent developments of the solar dryer integrated with thermal energy storage and auxiliary units, Thermal Science and Engineering Progress, Vol, 29, pp. 101192, https://doi.org/10.1016/j.tsep.2021.101192 (SCIE & Scopus) (Cite Score = 5.7). </li>
+              <li>Patil, R. B., Patil, S. S., Gupta, G., Bewoor, A. K., 2022, A Generalized Model Selection Framework for Multi-State Failure Data Analysis, International Journal of Quality and Reliability Management, Emerald, https://doi.org/10.1108/IJQRM-08-2021-0280  (ESCI & Scopus) (Cite Score = 4.2).</li>
+              <li>Roy, A., and Bandopadhay, S., 2022, Economic pinch analysis for estimating service life, Process Integration and Optimization for Sustainability, https://doi.org/10.1007/s41660-022-00221-x (ESCI & Scopus) (Cite Score = 2.6).
+</li>
+              <li>Shinde, A. B., and Patil, R. B., 2022, Multi-objective Optimization of Split and Recombine Micromixer Using Grey Relational Analysis Method, International Journal of Quality and Reliability Management, Emerald, https://doi.org/10.1108/IJQRM-06-2021-0186 (ESCI & Scopus) (Cite Score = 4.2).
+</li>
+              <li>Saini, M., Goyal, D., Kumar, A., and Patil, R. B., 2022, Availability Optimization of Biological and Chemical Processing Unit using Genetic Algorithm and Particle Swarm Optimization, International Journal of Quality and Reliability Management, https://doi.org/10.1108/IJQRM-08-2021-0283 (ESCI & Scopus) (Cite Score = 4.2).</li>
+              <li>Sen, R., Thakar, H., Roy, A., Shete, R., Jadhav, A., Raj, C., Sawant, M., and Patil, V., 2021, Fast charger for load acid motive power batteries for E-rickshaw, International Journal of Sustainable and Green Energy, Vol. 10, Issue 4, PP. 121-128.</li>
+              <li>Dubey, V., and Panchwadkar, A., 2021, Setting failure limits for L shape rectangular c/c by using ASME stress linearization standards and FEA, Journal of Automation and Automobile Engineering, Vol. 6, Issue 2, pp. 16-23.</li>
+              
+            </ol>
+          </div>
+        </div>
+      </div>
+  
+  
+  
+  
+            
+            <div class="accordion-item bg-light">
+        <h2 class="accordion-header" id="flush-headingFour1">
+          <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour1" aria-expanded="false" aria-controls="flush-collapseFour1">
+              <h6>>>> 2020-21</h6>
+          </button>
+        </h2>
+        <div id="flush-collapseFour1" class="accordion-collapse collapse" aria-labelledby="flush-headingFour1" data-bs-parent="#accordionFlushExample1">
           <div class="accordion-body">
             <ol class="my-list">
               <li>Chaudhari, V. D., Kulkarni, G. N., and Sewatkar, C. M., 2021, Computational fluid dynamics analysis of cabinet-type solar dryer, Journal of Food Process Engineering, Wiley, Vol. 44, No. 8, pp. 1-10, https://doi.org/10.1111/jfpe.13756 (SCIE & Scopus).</li>
@@ -295,7 +428,7 @@
       <div class="accordion-item bg-light">
         <h2 class="accordion-header" id="flush-headingTwo1">
           <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo1" aria-expanded="false" aria-controls="flush-collapseTwo1">
-              <h6>B ) 2019-20</h6>
+              <h6>>>> 2019-20</h6>
           </button>
         </h2>
         <div id="flush-collapseTwo1" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo1" data-bs-parent="#accordionFlushExample1">
@@ -324,7 +457,7 @@
       <div class="accordion-item bg-light">
         <h2 class="accordion-header" id="flush-headingThree1">
           <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree1" aria-expanded="false" aria-controls="flush-collapseThree1">
-              <h6>C ) 2018-19</h6>
+              <h6>>>> 2018-19</h6>
           </button>
         </h2>
         <div id="flush-collapseThree1" class="accordion-collapse collapse" aria-labelledby="flush-headingThree1" data-bs-parent="#accordionFlushExample1">
@@ -346,16 +479,31 @@
   <div class="container-fluid title">Conference Papers :
   </div>
   <br>
+  
+  
   <div class="accordion accordion-flush" id="accordionFlushExample">
       <div class="accordion-item bg-light">
         <h2 class="accordion-header" id="flush-headingOnee">
           <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOnee" aria-expanded="false" aria-controls="flush-collapseOnee">
-             <h6>A ) 2021-22</h6> 
+             <h6>>>> 2021-22</h6> 
           </button>
         </h2>
         <div id="flush-collapseOnee" class="accordion-collapse collapse" aria-labelledby="flush-headingOnee" data-bs-parent="#accordionFlushExample">
           <div class="accordion-body">
             <ol class="my-list">
+            <li>
+            Ambekar, P., and Roy, A., 2021, Design and development of a mixing arrangement for a prototype cold storage, AIP Conference Proceedings 2417, 030003-1-10, https://doi.org/10.1063/5.0072662 (Scopus). 
+            
+            </li>
+            <li>
+            Karanjikar, S. R., and Lakade, S. S., 2021, Evaluation of mechanical properties of polypropylene - Acrylonitrile butadiene styrene blend reinforced with cowrie shell [Cypraeidae] powder, Materials Today: Proceedings, Vol. 50, Issue 5, pp. 1644-1652, https://doi.org/10.1016/j.matpr.2021.09.134 (Scopus).
+            
+            </li>
+            <li>
+            Shinde, A. C., Rasne, P. S., and Patil, R. B., 2022, Quarter Car Active Suspension System Using Fuzzy Linear Quadratic Regular Controller” AIP Conference Proceedings, of 1st International Conference on Material Science, Mechanical and Civil Engineering (ICAMMCE-2022), Feb. 14-15, 2022 (Scopus).
+            
+            </li>
+            
               <li>More N., and Lakade S. S., 2021, Improvement in wear and friction properties of heat-treated steel using micro-grooved patterns, In: Rao, Y. V. D., Amarnath, C., Regalla, S. P., Javed, A., and Singh K.K. (eds), Advances in Industrial Machines and Mechanisms. Lecture Notes in Mechanical Engineering. Springer, Singapore. https://doi.org/10.1007/978-981-16-1769-0_41 (Scopus).
               </li>
             </ol>
@@ -365,7 +513,7 @@
       <div class="accordion-item bg-light">
         <h2 class="accordion-header" id="flush-headingTwoo">
           <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwoo" aria-expanded="false" aria-controls="flush-collapseTwoo">
-              <h6>B ) 2020-21</h6>
+              <h6>>>> 2020-21</h6>
           </button>
         </h2>
         <div id="flush-collapseTwoo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwoo" data-bs-parent="#accordionFlushExample">
@@ -387,7 +535,7 @@
       <div class="accordion-item bg-light">
         <h2 class="accordion-header" id="flush-headingThreee">
           <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThreee" aria-expanded="false" aria-controls="flush-collapseThreee">
-              <h6>C ) 2019-20</h6>
+              <h6>>>> 2019-20</h6>
           </button>
         </h2>
         <div id="flush-collapseThreee" class="accordion-collapse collapse" aria-labelledby="flush-headingThreee" data-bs-parent="#accordionFlushExample">
@@ -404,10 +552,12 @@
           </div>
         </div>
       </div>
+      <br>
+      
       <div class="accordion-item bg-light">
         <h2 class="accordion-header" id="flush-headingfourr">
           <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsefourr" aria-expanded="false" aria-controls="flush-collapsefourr">
-              <h6>C ) 2018-19</h6>
+              <h6>>>> 2018-19</h6>
           </button>
         </h2>
         <div id="flush-collapsefourr" class="accordion-collapse collapse" aria-labelledby="flush-headingfourr" data-bs-parent="#accordionFlushExample">
@@ -427,11 +577,33 @@
 <div class="container-fluid title">Book Publication :
 </div>
 <br>
+
+<div class="accordion accordion-flush" id="accordionFlushExample2">
+  <div class="accordion-item bg-light">
+    <h2 class="accordion-header" id="flush-headingOneee">
+      <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwoee" aria-expanded="false" aria-controls="flush-collapseTwoee">
+          <h6>>>>2020-21</h6> 
+      </button>
+    </h2>
+    <div id="flush-collapseTwoee" class="accordion-collapse collapse" aria-labelledby="flush-headingTwoee" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+        <ol class="my-list">
+          <li>Patil, R. B., Al-Dahidi, S., Newale, S., and Mellal, M. A., 2022, Fault Tree Analysis of Centerless Grinding Machine, in the Predictive Analytics in System Reliability, Springer Series in Reliability, Springer (Accepted).
+
+          </li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
 <div class="accordion accordion-flush" id="accordionFlushExample2">
   <div class="accordion-item bg-light">
     <h2 class="accordion-header" id="flush-headingOneee">
       <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOneee" aria-expanded="false" aria-controls="flush-collapseOneee">
-          <h6>A ) 2019-20</h6> 
+          <h6>>>>2019-20</h6> 
       </button>
     </h2>
     <div id="flush-collapseOneee" class="accordion-collapse collapse" aria-labelledby="flush-headingOneee" data-bs-parent="#accordionFlushExample">
