@@ -294,7 +294,7 @@ Pimpri, Pune-18.
           <tr>
             <td>6 </td>
             <td>Dheeraj Rajendra Badshe </td>
-            <td>TEMEA 106 </td>
+            <td>TEMEA106 </td>
             <td>HITACHI AUTOMOTIVE SYSTEM GROUP, Bambhori, Jalgaon </td>
           </tr>
           <tr>
@@ -588,414 +588,438 @@ Pvt. Ltd, Nashik.
             <td>BEMEC311</td>
             <td>TATA MOTORS LTD., Pimpri, Pune-18.</td>
           </tr>
-          <!-- <tr>
+          <tr>
             <td>51 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Shantanu Sanjay Gore</td>
+            <td>BEMEB257 </td>
+            <td>TATA MOTORS,Bhosari, Pune,
+
+</td>
           </tr>
           <tr>
             <td>52 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms. Aishwarya Rajendra Mohan</td>
+            <td>TEMEA171 </td>
+            <td>Silver Star - Mercedes Benz
+Garware Point, A-22, MIDC Ambad, 
+Nashik,Maharashtra 422010.
+ </td>
           </tr>
           <tr>
             <td>53 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Aditya Sunil Wake </td>
+            <td>TEMEA179 </td>
+            <td>Silver Star - Mercedes Benz
+Garware Point, A-22, MIDC Ambad, 
+Nashik,Maharashtra 422010.
+ </td>
           </tr>
           <tr>
             <td>54</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Sahil Sanjay Rode </td>
+            <td>TEMEC349 </td>
+            <td>S.V.S. Wires Private Limited,                                  Gat No. 35/1, Village Karde,                                                  Shirur, Pune - 500055. </td>
           </tr>
           <tr>
             <td>55</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Yogesh Ishwar Yadav </td>
+            <td>TEMEB280 </td>
+            <td>Mahabal Metal Pvt. Ltd.,              Miraj, Maharashtra </td>
           </tr>
           <tr>
             <td>56</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Virajsinh Jitendra Chavan</td>
+            <td>TEMEC375 </td>
+            <td>Patole Engineering, Miraj, Sangali.</td>
           </tr>
           <tr>
             <td>57</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms. Shruti Anil Kokane</td>
+            <td>TEMEB232</td>
+            <td>Kothari Company,                                 Mohol, Maharashtra</td>
           </tr>
           <tr>
             <td>58</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Sahil Sanjay Rode</td>
+            <td>TEMEC349</td>
+            <td>Baba Automobile Pvt. Ltd.,                     Jaipur, Rajasthan - 302033.</td>
           </tr>
           <tr>
             <td>59</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms. Rutuja Anil Gawai </td>
+            <td>TEMEA173</td>
+            <td>Shree Munsaji Co Operative Spinning Mill Ltd.,  Chikhali, Buldhana.</td>
           </tr>
           <tr>
             <td>60</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Rohan Ravindra Kharat </td>
+            <td>TEMEB228 </td>
+            <td>Ashok Sahakari Sakhar Karkhana Ltd.,                      Shriranpur, Karegaon - 413717. </td>
           </tr>
           <tr>
             <td>61</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr, Pranav Prakashrao Joshi </td>
+            <td>TEMEA175 </td>
+            <td>Ujwal Enterprises (India)Pvt. Ltd.,              Hingoli Road, Nanded  - 431602. </td>
           </tr>
           <tr>
             <td>62</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr, Pranav Prakashrao Joshi </td>
+            <td>TEMEB217 </td>
+            <td>Bhimashankar Agro Products Pvt. Ltd.,           Niphad, Nashik - 422209. </td>
           </tr>
           <tr>
             <td>63</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms. Kshipra Vaibhav Wagholikar</td>
+            <td>TEMEA1068 </td>
+            <td>Ravi Industries,                                           Talawade, Pune - 411114.</td>
           </tr>
           <tr>
             <td>64</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Ganesh Sanjay Girase </td>
+            <td>TEMEA127 </td>
+            <td>Universal Starch Chem Allied Ltd.,                  Dondaicha, Dhule. </td>
           </tr>
           <tr>
             <td>65</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Dhiraj Dhanaji Mali </td>
+            <td>TEMEB275 </td>
+            <td>Sanika Technology Pvt. Ltd.,                 Jaisingpur </td>
           </tr>
           <tr>
             <td>66</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Atharva Anil Potdar </td>
+            <td>TEMEC378 </td>
+            <td>Patole Engineering, Miraj, Sangali. </td>
           </tr>
           <tr>
             <td>67</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Athar Suhas Patil</td>
+            <td>TEMEB276 </td>
+            <td>Mahabal Metal Pvt. Ltd.,              Miraj, Maharashtra </td>
           </tr>
           <tr>
             <td>68</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Sanket Deepak Patil </td>
+            <td>TEMEA154 </td>
+            <td>Eibenstock Positron Electrowork Pvt. Ltd.,                                                    Tardal, Hatkanangle, Kolhapur</td>
           </tr>
           <tr>
             <td>69</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Rohan Ravindra Kharat</td>
+            <td>TEMEB228 </td>
+            <td>Technocrat Solutions,                     Patil Nagar, Chikhali. Pune - 411062.</td>
           </tr>
           <tr>
             <td>70</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Atharva Ajit patil </td>
+            <td>TEMEA139 </td>
+            <td>Kala Genset Pvt. Ltd.,                                        Chakan Talegaon Rd, Mhalunge Ingale, Khed </td>
           </tr>
           <tr>
             <td>71</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Vaishnav Ravindra Kaldate</td>
+            <td>TEMEA135 </td>
+            <td>Kala Genset Pvt. Ltd.,                                        Chakan Talegaon Rd, Mhalunge Ingale, Khed </td>
           </tr>
           <tr>
             <td>72</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Jayvardhan Jivan Patil </td>
+            <td>TEMEA176 </td>
+            <td>Vijay Foundary Equipment's                   MIDC, Shiroli, Beside Police Station, Kolhapur - 416 122. </td>
           </tr>
           <tr>
             <td>73</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Dheeraj Pralhad Zope</td>
+            <td>TEMEB267 </td>
+            <td>Benzo Chem Industries Pvt. Ltd., Dasarkhed Buldhana, Malkapur. </td>
           </tr>
           <tr>
             <td>74</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Tanishq Vijaykumar Patil </td>
+            <td>TEMEA178 </td>
+            <td>Bhagyalakshmi Car Service Center, Talawade Road, Pune </td>
           </tr>
           <tr>
             <td>75</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms. Bhanupriya Manoj Zha </td>
+            <td>TEMEB224 </td>
+            <td>Ferro Iiotek Pvt. Ltd.,           Dasarkhed, Malkapur </td>
           </tr>
           <tr>
             <td>76</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Yash Dhananjay Ashtekar</td>
+            <td>TEMEA104</td>
+            <td>Patil Automation Private Limited,  Chakan, Wasuli. </td>
           </tr>
           <tr>
             <td>77</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Ankin Anil Chavan </td>
+            <td>TEMEA115 </td>
+            <td>Patil Automation Private Limited,  Chakan, Wasuli. </td>
           </tr>
           <tr>
             <td>78</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Nitesh Pravin Desale</td>
+            <td>TEMEB212 </td>
+            <td>BITS Control and Solutions,        Bhosari MIDC, Pune - 26 </td>
           </tr>
           <tr>
             <td>79</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms. Shravani Nitin Dumbre </td>
+            <td>TEMEB216 </td>
+            <td>BITS Control and Solutions,        Bhosari MIDC, Pune - 26 </td>
           </tr>
           <tr>
             <td>80</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms. Babalee Mithalesh Gupta </td>
+            <td>TEMEB219 </td>
+            <td>BITS Control and Solutions,        Bhosari MIDC, Pune - 26 </td>
           </tr>
           <tr>
             <td>81</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Abhishek Satish Walunj </td>
+            <td>TEMEA165 </td>
+            <td>ACDO/GCMC,                           Central Railways, 
+Pune Division 411001
+</td>
           </tr>
           <tr>
             <td>82</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Akash Rajesh More </td>
+            <td>TEMEA147 </td>
+            <td>SHAPE ENGINEERS, 
+Dehu - Alandi Rd, Patil Nagar,
+Chikhali, Maharashtra 411062.
+ </td>
           </tr>
           <tr>
             <td>83</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Aditya Suryanarayan Chakkarwar </td>
+            <td>TEMEA112</td>
+            <td>Eltek Engineers,MIDC, Bhosari, Pune.
+
+</td>
           </tr>
           <tr>
             <td>84</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms. Manali Shyamkant Choudhari </td>
+            <td>TEMEA117 </td>
+            <td>Eltek Engineers,
+MIDC, Bhosari, Pune.
+ </td>
           </tr>
           <tr>
             <td>85</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Sanket Namdeo Shelke </td>
+            <td>TEMEA159 </td>
+            <td>Eltek Engineers,
+MIDC, Bhosari, Pune.
+ </td>
           </tr>
           <tr>
             <td>86</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Kapil Karambelkar </td>
+            <td>TEMEC321 </td>
+            <td>Red Baron Corporate</td>
           </tr>
           <tr>
             <td>87</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms. Shriya Varute</td>
+            <td>TEBEB264</td>
+            <td>Red Baron Corporate</td>
           </tr>
           <tr>
             <td>88</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Yogesh Avad </td>
+            <td>TEBEB202</td>
+            <td>Red Baron Corporate</td>
           </tr>
           <tr>
             <td>89</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Sammed Shah</td>
+            <td>TEMEC350 </td>
+            <td>Red Baron Corporate</td>
           </tr>
           <tr>
             <td>90</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Purvesh Isapure</td>
+            <td>TEMEA150</td>
+            <td>Red Baron Corporate</td>
           </tr>
           <tr>
             <td>91</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Darshan Ruhtiya</td>
+            <td>TEBEB250</td>
+            <td>Red Baron Corporate</td>
           </tr>
           <tr>
             <td>92</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Ankush Satish Desai </td>
+            <td>TEMEC309</td>
+            <td>Team Automatons</td>
           </tr>
           <tr>
             <td>93</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Ayush  Jayswal </td>
+            <td>TEMEC317</td>
+            <td>Team Automatons</td>
           </tr>
           <tr>
             <td>94</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Samyak Mangesh Jain</td>
+            <td>TEBEB222</td>
+            <td>Team Automatons </td>
           </tr>
           <tr>
             <td>95</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Yash Tushar Mahajan</td>
+            <td>TEMEC331</td>
+            <td>Team Automatons </td>
           </tr>
           <tr>
             <td>96</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Suraj Savakar Kakade</td>
+            <td>TEMEC320</td>
+            <td>Team Automatons </td>
           </tr>
           <tr>
             <td>97</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Sameer Atul Patil</td>
+            <td>TEBEB277</td>
+            <td>Team Automatons </td>
           </tr>
           <tr>
             <td>98</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Sanket Atul Patil</td>
+            <td>TEBEB278</td>
+            <td>Team Automatons </td>
           </tr>
           <tr>
             <td>99</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms. Kshitija Mohite</td>
+            <td>TEMEC334</td>
+            <td>Team Automatons </td>
           </tr>
           <tr>
             <td>100</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Rohit Shivaji Patil</td>
+            <td>TEMEC345</td>
+            <td>Team Automatons </td>
           </tr>
           <tr>
             <td>101</td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Atharva C. Neb</td>
+            <td>TEBEB239</td>
+            <td>Team Automatons </td>
           </tr>
           <tr>
             <td>102 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Om Anant Kulkarni</td>
+            <td>TEMEA142</td>
+            <td>Team Automatons </td>
           </tr>
           <tr>
             <td>103 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms.Chaitrali Sanjay Ranaware</td>
+            <td>TEMEA157 </td>
+            <td>Vibro Feed Tech                            165, Talawade Rd,Hanuman Nagar, Sahyog Nagar, Maharashtra 412114. </td>
           </tr>
           <tr>
             <td>104 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms. Shruti Raju Chormale </td>
+            <td>TEMEA116 </td>
+            <td>Vibro Feed Tech                            165, Talawade Rd,Hanuman Nagar, Sahyog Nagar, Maharashtra 412114. </td>
           </tr>
           <tr>
             <td>105 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms. Shruti Anil Kokane </td>
+            <td>TEMEB232 </td>
+            <td>Vibro Feed Tech                            165, Talawade Rd,Hanuman Nagar, Sahyog Nagar, Maharashtra 412114. </td>
           </tr>
           <tr>
             <td>106 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Heet  Kunal Visawadia </td>
+            <td>TEMEC361</td>
+            <td>TATA MOTORS ,Chinchwad Pune,Maharashtra 411019.
+
+</td>
           </tr>
           <tr>
             <td>107 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Mihir Ramesh Zambare </td>
+            <td>TEBEB266</td>
+            <td>Team Maverick</td>
           </tr>
           <tr>
             <td>108 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Aniket Nivrutti Pingle </td>
+            <td>TEBEB246 </td>
+            <td>Team Maverick</td>
           </tr>
           <tr>
             <td>109 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Sanket Rajesh Nampurkar </td>
+            <td>TEMEA149</td>
+            <td>Team Maverick</td>
           </tr>
           <tr>
             <td>110 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Rudransh S. Shitole</td>
+            <td>TEBEB258</td>
+            <td>Team Maverick</td>
           </tr>
           <tr>
             <td>111 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Aditya Rajendra Shete </td>
+            <td>TEBEB257 </td>
+            <td>Team Maverick</td>
           </tr>
           <tr>
             <td>112 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Ms. Mrunal Subhash hakande </td>
+            <td>TEMEA129 </td>
+            <td>Varun Engineer's,                           Plot No. 143, Sector - 7,        PCNTDA, MIDC  , Bhosari, Pune - 26 </td>
           </tr>
           <tr>
             <td>113 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Shivam Thakdeo Jadhav </td>
+            <td>TEMEA133 </td>
+            <td>Thermax Pvt. Limited,                                        Chinchwad, Pune. </td>
           </tr>
           <tr>
             <td>114 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Govind M.  Bagdiya </td>
+            <td>TEMEA107 </td>
+            <td>Nayan Mechatronics LLP,              Datta Nagar, Dighi, Pune</td>
           </tr>
           <tr>
             <td>115 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Aniket Bhanudas Morajkar </td>
+            <td>TEMEA146 </td>
+            <td>Nayan Mechatronics LLP,              Datta Nagar, Dighi, Pune</td>
           </tr>
           <tr>
             <td>116 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Varun Shriram Gawade </td>
+            <td>TEMEA125 </td>
+            <td>Varun Engineer's,                           Plot No. 143, Sector - 7,        PCNTDA, MIDC  , Bhosari, Pune - 26 </td>
           </tr>
           <tr>
             <td>117 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
+            <td>Mr. Kunak Kiran Erande</td>
+            <td>TEMEA123 </td>
+            <td>Varun Engineer's,                           Plot No. 143, Sector - 7,        PCNTDA, MIDC  , Bhosari, Pune - 26 </td>
           </tr>
           <tr>
             <td>118 </td>
-            <td> </td>
-            <td> </td>
-            <td> </td>
-          </tr> -->
+            <td>Ms. Anuja Sunil Rupnar </td>
+            <td>TEMEB251 </td>
+            <td>STEEL FAB ENGINEERS.
+Plot No.4, Medankarwadi, Chakan, 
+Pune, Maharashtra 411026.
+ </td>
+          </tr>
 
       </table>
   </div>
