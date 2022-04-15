@@ -199,7 +199,7 @@
       <div class="accordion-item bg-light">
         <h2 class="accordion-header" id="flush-headingOnee">
           <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOnee" aria-expanded="false" aria-controls="flush-collapseOnee">
-             <h6>A ) 2020-21</h6> 
+             <h6>>>> 2021-22</h6> 
           </button>
         </h2>
         <div id="flush-collapseOnee" class="accordion-collapse collapse show" aria-labelledby="flush-headingOnee" data-bs-parent="#accordionFlushExampletwo">
@@ -216,8 +216,51 @@
                   <tbody>
                       <tr>
                         <td>1</td>
+                        <td>Dr A Roy, 
+Dr P A Deshmukh
+</td>
+                        <td>DG Cooling System -Performance Evaluation</td>
+                        <td>10,000</td>
+                      </tr>
+                      <tr>
+                        <td>2</td>
+                        <td>Prof. L V Awadhani</td>
+                        <td>Training for Employeed of Kone Cranes</td>
+                        <td>72,000</td>
+                      </tr>
+                      <tr>
+                        <td>3</td>
+                        <td>Mr Amit Panchwadkar</td>
+                        <td>Design of Vibratory Grate for Urja Disha Boilers</td>
+                        <td>50,000</td>
+                      </tr>
+                  </tbody>
+              </table>
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item bg-light">
+        <h2 class="accordion-header" id="flush-headingFouro">
+          <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFouro" aria-expanded="false" aria-controls="flush-collapseFouro">
+              <h6>>>> 2020-21</h6>
+          </button>
+        </h2>
+        <div id="flush-collapseFouro" class="accordion-collapse collapse" aria-labelledby="flush-headingFouro" data-bs-parent="#accordionFlushExampleFour">
+          <div class="accordion-body">
+              <table class="table table-hover table-borderless">
+                  <thead class="table-primary">
+                      <tr>
+                          <th>Sr. No.</th>
+                          <th>Investigators</th>
+                          <th>Project title</th>
+                          <th>Amt. in Rs.</th>
+                      </tr>
+                  </thead>
+                  <tbody>
+                      <tr>
+                        <td>1</td>
                         <td>Dr A Roy, Shweta Suryawnshi, SIG - Renewable & Sustainable Energy</td>
-                        <td>1 week FDP on 'Begineers Perspective of Electric Vehicle"</td>
+                        <td>1 week FDP on "Beginners Perspective of Electric Vehicle"</td>
                         <td>21,600</td>
                       </tr>
                       <tr>
@@ -240,7 +283,7 @@
       <div class="accordion-item bg-light">
         <h2 class="accordion-header" id="flush-headingTwoo">
           <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwoo" aria-expanded="false" aria-controls="flush-collapseTwoo">
-              <h6> B ) 2019-20</h6>
+              <h6>>>> 2019-20</h6>
           </button>
         </h2>
         <div id="flush-collapseTwoo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwoo" data-bs-parent="#accordionFlushExampletwo">
@@ -287,7 +330,7 @@
       <div class="accordion-item bg-light">
         <h2 class="accordion-header" id="flush-headingThreee">
           <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThreee" aria-expanded="false" aria-controls="flush-collapseThreee">
-              <h6>C ) 2018-19</h6>
+              <h6>>>> 2018-19</h6>
           </button>
         </h2>
         <div id="flush-collapseThreee" class="accordion-collapse collapse" aria-labelledby="flush-headingThreee" data-bs-parent="#accordionFlushExampletwo">

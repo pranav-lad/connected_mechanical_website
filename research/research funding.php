@@ -202,10 +202,61 @@
             <div class="accordion-item bg-light">
               <h2 class="accordion-header" id="flush-headingOne">
                 <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                   <h6>A ) 2020-21</h6> 
+                   <h6>>>> 2021-22</h6> 
                 </button>
               </h2>
               <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body">
+                    <table class="table table-hover table-borderless">
+                        <thead class="table-primary">
+                            <tr>
+                                <th>Sr. No.</th>
+                                <th>Investigators</th>
+                                <th>Project title</th>
+                                <th>Funding agency</th>
+                                <th>Amt. in Rs.</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Dr. U. G. Potdar 
+Dr. N.R. Deore 
+</td>
+                                <td>Design and development of  miniature liquid fuel film combustor for thermoelectric power generation.</td>
+                                <td>DST-SERB</td>
+                                <td>27,65,500</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Dr.Anindita Roy, Dr. N. R. Deore
+</td>
+                                <td>Design and Development of a liquid immersion cooling system for high performance electric three wheelers </td>
+                                <td>La foundation</td>
+                                <td>4,00,000</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Mrs. Gauri V. Phadtare Dr. Padmakar Deshmukh 
+</td>
+                                <td>Utilization of Green energy source for the development of solar system for biomedical application </td>
+                                <td>AICTE-
+RPS 
+</td>
+                                <td>12,14,608</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item bg-light">
+              <h2 class="accordion-header" id="flush-headingFour">
+                <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                    <h6>>>> 2020-21</h6>
+                </button>
+              </h2>
+              <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
                 <div class="accordion-body">
                     <table class="table table-hover table-borderless">
                         <thead class="table-primary">
@@ -227,17 +278,31 @@
                             </tr>
                             <tr>
                                 <td>2</td>
+                                <td>Prof. A.N. Kore, and Dr. S.S. Lakade</td>
+                                <td>Design and Development of Open Pan Heat Exchanger Based on Thermic Fluid for Organic Jaggery Making</td>
+                                <td>La foundation</td>
+                                <td>2,10,000</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
                                 <td>Dr. Anindita Roy, and Dr. N.R. Deore</td>
                                 <td>Design and Development of a liquid immersion cooling system for high performance electric three wheelers</td>
                                 <td>La foundation</td>
                                 <td>4,00,000</td>
                             </tr>
                             <tr>
-                                <td>3</td>
+                                <td>4</td>
                                 <td>Dr. N.R. Deore & Prof. L.V. Awdhani</td>
                                 <td>MODROBs- Modernization of Mechanics of Composites Lab</td>
                                 <td>AICTE</td>
                                 <td>12,80,000</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>Mr. Rohit Suryawanshi, Mr. Nilesh Gaikwad (Project Guide), Mr. Mukund Ranade (Industry Mentor)</td>
+                                <td>Experimental investigation and theoretical simulation of performance of condensing units below AHRI rated ambient temperatures </td>
+                                <td>ISHRAE</td>
+                                <td>1,00,000</td>
                             </tr>
                         </tbody>
                     </table>
@@ -247,7 +312,7 @@
             <div class="accordion-item bg-light">
               <h2 class="accordion-header" id="flush-headingTwo">
                 <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                    <h6>B ) 2019-20</h6>
+                    <h6>>>> 2019-20</h6>
                 </button>
               </h2>
               <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
@@ -285,7 +350,7 @@
             <div class="accordion-item bg-light">
               <h2 class="accordion-header" id="flush-headingThree">
                 <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                    <h6>C ) 2018-19</h6>
+                    <h6>>>> 2018-19</h6>
                 </button>
               </h2>
               <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">

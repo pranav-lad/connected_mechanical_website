@@ -202,10 +202,81 @@
       <div class="accordion-item bg-light">
         <h2 class="accordion-header" id="flush-headingOne">
           <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-             <h6>2020-21</h6> 
+             <h6>2021-22</h6> 
           </button>
         </h2>
         <div id="flush-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+          <div class="accordion-body">
+              <table class="table table-hover table-borderless">
+                  <thead class="table-primary">
+                      <tr>
+                          <th>Sr. No.</th>
+                          <th>Author</th>
+                          <th>Title</th>
+                          <th>Patent Application no.</th>
+                      </tr>
+                  </thead>
+                  <tbody>
+                      <tr>
+                          <td>1</td>
+                          <td>Dr. A. Roy & others</td>
+                          <td>LWM- Solar Cooker: Simple Low Cost Light Weight Modular Solar Cooker.</td>
+                          <td>202121043252</td>
+                      </tr>
+                      <tr>
+                          <td>2</td>
+                          <td>Dr. A. Roy & others</td>
+                          <td>A low Density Low Temperature (Deg-C) Thermocline Thermal Energy Storage Tank.</td>
+                          <td>202121044931</td>
+                      </tr>
+                      <tr>
+                          <td>3</td>
+                          <td>Dr. C. L. Ladekar & others</td>
+                          <td>Portable Emission Detector & Inbuilt Driving License Storage Device</td>
+                          <td>202121035799</td>
+                      </tr>
+                      <tr>
+                          <td>4</td>
+                          <td>Hemant Kadam & others</td>
+                          <td>A novel mechanical stapler-stapler 2.0</td>
+                          <td>202121046445</td>
+                      </tr>
+                      <tr>
+                          <td>5</td>
+                          <td>Dr. U. G. Potdar</td>
+                          <td>Miniature thermoelectric power conversion system with liquid fuel variable area combustor and concern</td>
+                          <td>202121050184</td>
+                      </tr>
+                      <tr>
+                          <td>6</td>
+                          <td>Dr.A.Roy and Dr.P.A.Deshmukh</td>
+                          <td>A Smart Sustainable Portable Cold Storage.</td>
+                          <td>202121056487</td>
+                      </tr>
+                      <tr>
+                          <td>7</td>
+                          <td>Dr.A.Roy and Dr.N.R.Deore</td>
+                          <td>Liquid Immersion Cooling System for Battery Packs of High-Performance Light Electric Vehicles.</td>
+                          <td>202121053766</td>
+                      </tr>
+                      <tr>
+                          <td>8</td>
+                          <td>Mahadev U Madgule and others</td>
+                          <td>Multi Axis Dedicated Machine For Machining Silicon</td>
+                          <td>202131054037</td>
+                      </tr>
+                  </tbody>
+              </table>
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item bg-light">
+        <h2 class="accordion-header" id="flush-headingFour">
+          <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+              <h6>2020-21</h6>
+          </button>
+        </h2>
+        <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
           <div class="accordion-body">
               <table class="table table-hover table-borderless">
                   <thead class="table-primary">
@@ -367,6 +438,43 @@
       </h4>
   </div>
   <br>
+  <div class="accordion accordion-flush " id="accordionFlushExampleFoure">
+      <div class="accordion-item bg-light">
+        <h2 class="accordion-header" id="flush-headingFoure">
+          <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFoure" aria-expanded="false" aria-controls="flush-collapseFoure">
+             <h6>2021-22</h6> 
+          </button>
+        </h2>
+        <div id="flush-collapseFoure" class="accordion-collapse collapse" aria-labelledby="flush-headingOnee" data-bs-parent="#accordionFlushExampleFour">
+          <div class="accordion-body">
+              <table class="table table-hover table-borderless">
+                  <thead class="table-primary">
+                      <tr>
+                          <th>Sr. No.</th>
+                          <th>Author</th>
+                          <th>Title</th>
+                          <th>Copyright no.</th>
+                      </tr>
+                  </thead>
+                  <tbody>
+                      <tr>
+                          <td>1</td>
+                          <td>Mrs.Rita Pimpalkar</td>
+                          <td>Vibrating Mechanism for Post Processing of 3D Printed Models</td>
+                          <td>L-110299/2022</td>
+                      </tr>
+                      <tr>
+                          <td>2</td>
+                          <td>Mahadev Madgule</td>
+                          <td>Hybrid Energy Storage Systems for Electric Vehicles</td>
+                          <td>1189475</td>
+                      </tr>
+                      
+                  </tbody>
+              </table>
+          </div>
+        </div>
+      </div>
   <div class="accordion accordion-flush " id="accordionFlushExampletwo">
       <div class="accordion-item bg-light">
         <h2 class="accordion-header" id="flush-headingOnee">
