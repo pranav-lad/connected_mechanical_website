@@ -297,6 +297,61 @@
       <!-- ----------------- year 2020 ---------------------------------------------------------------- -->
       
       <h6 class="head1"><span>April-May 2020 Sem II <small class="font-monospace">(May 2020 Sem II)</small></span></h6>
+
+      <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/sabale-bhausaheb.jpg"></div>
+            <h6 class="h6 text-center">Sabale Nilesh Bhausaheb</h6>
+            <p class="description">Branchwise Rank 8</p>
+            <p class="batch">~ Final Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/mujawar-azhar.jpg"></div>
+            <h6 class="h6 text-center">Mujawar Azhar Shakil</h6>
+            <p class="description">All Branches Rank 3</p>
+            <p class="description">Branchwise Rank 1</p>
+            <p class="batch">~ Third Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/chaskar-omkar.jpg"></div>
+            <h6 class="h6 text-center">Chaskar Omkar Anil</h6>
+            <p class="description">All Branches Rank 4</p>
+            <p class="description">Branchwise Rank 2</p>
+            <p class="batch">~ Third Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/mukadam-barkat.jpg"></div>
+            <h6 class="h6 text-center">Mukadam Barkat Firoj</h6>
+            <p class="description">All Branches Rank 7</p>
+            <p class="description">Branchwise Rank 4</p>
+            <p class="batch">~ Third Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/Jawale Sudarshan Netajee.jpg"></div>
+            <h6 class="h6 text-center">Jawale Sudarshan Netajee</h6>
+            <p class="description">All Branches Rank 7</p>
+            <p class="description">Branchwise Rank 7</p>
+            <p class="batch">~ Third Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/yadav-preeti.jpg"></div>
+            <h6 class="h6 text-center">Yadav Preeti Jagdish</h6>
+            <p class="description">Branchwise Rank 10</p>
+            <p class="batch">~ Third Year</p>
+          </div>
+        </div>
+
+
         <div class="col-lg-3 col-sm-6">
           <div class="item   text-center">
             <div class="text-center"><img src="../vender/files/toppers/gunjal shreya mahesh.jpg"></div>
@@ -305,7 +360,7 @@
               <!-- All Branches Rank 10<br> -->
               Branchwise Rank 1
             </p>
-            <!-- <p class="batch">~ Third Year</p> -->
+            <p class="batch">~ Second Year</p>
           </div>
         </div>
         <div class="col-lg-3 col-sm-6">
@@ -313,7 +368,7 @@
             <div class="text-center"><img src="../vender/files/toppers/somwanshi nikhil chhotu.jpg"></div>
             <h6 class="h6 text-center">Somwanshi Nikhil Chhotu</h6>
             <p class="description">Branchwise Rank 1</p>
-            <!-- <p class="batch">~ Third Year</p> -->
+            <p class="batch">~ Second Year</p>
           </div>
         </div>
         <div class="col-lg-3 col-sm-6">
@@ -321,7 +376,7 @@
             <div class="text-center"><img src="../vender/files/toppers/jadhav saurabh mahesh.jpg"></div>
             <h6 class="h6 text-center">Jadhav Saurabh Mahesh</h6>
             <p class="description">Branchwise Rank 4</p><br>
-            <!-- <p class="batch">~ Third Year</p> -->
+            <p class="batch">~ Second Year</p>
           </div>
         </div>
         <div class="col-lg-3 col-sm-6">
@@ -329,7 +384,7 @@
             <div class="text-center"><img src="../vender/files/toppers/deshpande jaai prashant.jpg"></div>
             <h6 class="h6 text-center">Deshpande Jaai Prashant</h6>
             <p class="description">Branchwise Rank 5</p><br>
-            <!-- <p class="batch">~ Third Year</p> -->
+            <p class="batch">~ Second Year</p>
           </div>
         </div>
 
@@ -342,32 +397,24 @@
             Branchwise Rank 8
               <!-- Branch wise Rank 01 -->
             </p>
-            <!-- <p class="batch">~ Second Year</p> -->
-          </div>
-        </div>
-        <!-- <div class="col-lg-3 col-sm-6">
-          <div class="item   text-center">
-            <div class="text-center"><img src="../vender/files/toppers/shelar-prajwal.jpg"></div>
-            <h6 class="h6 text-center">Shelar Prajwal Dattatray</h6>
-            <p class="description">Branch wise Rank 03</p><br>
             <p class="batch">~ Second Year</p>
           </div>
-        </div> -->
+        </div>
         <div class="col-lg-3 col-sm-6">
           <div class="item   text-center">
             <div class="text-center"><img src="../vender/files/toppers/thorat prajwal vijay.jpg"></div>
             <h6 class="h6 text-center">Thorat Prajwal Vijay</h6>
             <p class="description">Branchwise Rank 8</p><br>
-            <!-- <p class="batch">~ Second Year</p> -->
+            <p class="batch">~ Second Year</p>
           </div>
         </div>
-        <hr class="invisible">
+        <!-- <hr class="invisible"> -->
         <div class="col-lg-3 col-sm-6">
           <div class="item   text-center">
             <div class="text-center"><img src="../vender/files/toppers/urvesh berry vikhiat.jpg"></div>
             <h6 class="h6 text-center">Urvesh Berry Vikhiat</h6>
             <p class="description">Branchwise Rank 10</p>
-            <!-- <p class="batch">~ Second Year</p> -->
+            <p class="batch">~ Second Year</p>
           </div>
         </div>
         <div class="col-lg-3 col-sm-6">
@@ -375,7 +422,7 @@
             <div class="text-center"><img src="../vender/files/toppers/joshi atharva shyam.jpg"></div>
             <h6 class="h6 text-center">Joshi Atharva Shyam</h6>
             <p class="description">Branchwise Rank 10</p>
-            <!-- <p class="batch">~ Second Year</p> -->
+            <p class="batch">~ Second Year</p>
           </div>
         </div>
         <div class="col-lg-3 col-sm-6">
@@ -383,7 +430,7 @@
             <div class="text-center"><img src="../vender/files/toppers/b shivakumar.jpg"></div>
             <h6 class="h6 text-center">B Shivakumar</h6>
             <p class="description">All Branches Rank 10</p>
-            <!-- <p class="batch">~ Second Year</p> -->
+            <p class="batch">~ Second Year</p>
           </div>
         </div>
       
@@ -523,6 +570,39 @@
             <h6 class="h6 text-center">Dhake Yash Kamlakar</h6>
             <p class="description">
               All Branches Rank 04<br>
+              Branch wise Rank 03</p>
+            <p class="batch">~ Third Year</p>
+          </div>
+        </div>
+
+        <h6 class="head1 mt-5"><span>AY2015-16 Sem II  <small class="font-monospace">April- May 2016 Sem II</small></span></h6>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/bhosale-prafull.jpg"></div>
+            <h6 class="h6 text-center">Bhosale Prafull Pratap</h6>
+            <p class="description">
+              All Branches Rank 02<br>
+              Branch wise Rank 01
+            </p>
+            <p class="batch">~ Second Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/Sawkar Krunal.jpg"></div>
+            <h6 class="h6 text-center">Sawkar Krunal Sanjay</h6>
+            <p class="description">
+              All Branches Rank 04<br>
+              Branch wise Rank 03</p>
+            <p class="batch">~ Third Year</p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="item   text-center">
+            <div class="text-center"><img src="../vender/files/toppers/Agarwal Shubham.jpg"></div>
+            <h6 class="h6 text-center">Agarwal Shubham Ravikant</h6>
+            <p class="description">
+              All Branches Rank 03<br>
               Branch wise Rank 03</p>
             <p class="batch">~ Third Year</p>
           </div>
