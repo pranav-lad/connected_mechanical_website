@@ -398,7 +398,11 @@
                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    Data not provided
+                  <button type="button" class="btn btn-primary">
+                    <a href = "vender\files\syllabus\Final_Syllabus booklet of M.Tech.(Design) 24_09_2021 Copy.pdf" style = "color : white; text-decoration : none" target = "_blank">
+                      M.E. Design Syllabus
+                    </a>
+                  </button>
                   </div>
                 </div>
               </div>
@@ -412,7 +416,11 @@
                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                   data-bs-parent="#accordionExample">
                   <div class="accordion-body">
-                    Data not provided
+                  <button type="button" class="btn btn-primary">
+                    <a href = "vender\files\academic_calendar\SY M.Tech Design Sem 2.pdf" style = "color : white; text-decoration : none" target = "_blank">
+                      SY M.Tech Design Engineering - Academic Calendar (Sem 2)
+                    </a>
+                  </button>
                   </div>
                 </div>
               </div>
