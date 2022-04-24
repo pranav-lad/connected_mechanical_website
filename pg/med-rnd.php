@@ -484,7 +484,40 @@
                   <div id="collapseTwo2" class="accordion-collapse collapse" aria-labelledby="headingTwo2"
                     data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                      <h3>Data Unavailable</h3>
+                      <div class="row">
+                        <div class="col-6">
+                          <div class="fw-bold">
+                            Core Facilities
+                          </div>
+                          <div>
+                            <ol>
+                              <li class="my-2">Noise Vibration And Harshness (NVH) laboratory</li>
+                              <li class="my-2">Multi-channel FFT Analyzer</li>
+                              <li class="my-2">Electrodynamics Shaker</li>
+                              <li class="my-2">Impact Hammer</li>
+                              <li class="my-2">12"Diffused Research Polaris scope</li>
+                              <li class="my-2">Sound Calibrator</li>
+                              <li class="my-2">Uniaxial Accelerometer</li>
+                            </ol>
+                          </div>
+                        </div>
+                        <div class="col-6">
+                          <div class="fw-bold">
+                            Computational Facilities
+                          </div>
+                          <div>
+                            <ol>
+                              <li class="my-2">Ansys – Structural 2021 R1</li>
+                              <li class="my-2">Adams - University MD FEA + Motion Bundle</li>
+                              <li class="my-2">Hyper Work FEA -Solver-Radiors -Hyperwork-Hyperview-	Hypergraph</li>
+                              <li class="my-2">Hyper Work Reaserch Version</li>
+                              <li class="my-2">MSc - Fatigue, Nastran, Patran</li>
+                              <li class="my-2">CATIA V5</li>
+                              <li class="my-2">AutoCAD</li>
+                            </ol>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
