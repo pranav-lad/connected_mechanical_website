@@ -425,6 +425,24 @@
                 </div>
               </div>
               <div class="accordion-item">
+                <h2 class="accordion-header" id="headingseven">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#collapseseven" aria-expanded="false" aria-controls="collapseseven">
+                    Time Table
+                  </button>
+                </h2>
+                <div id="collapseseven" class="accordion-collapse collapse" aria-labelledby="headingseven"
+                  data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                  <button type="button" class="btn btn-primary">
+                    <a href = "vender\files\timetable\Timetable.pdf" style = "color : white; text-decoration : none" target = "_blank">
+                     Time Table
+                    </a>
+                  </button>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
                 <h2 class="accordion-header" id="headingFour">
                   <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
