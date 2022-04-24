@@ -251,54 +251,199 @@
                   <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne"
                     data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                      <b>Batch-wise List of Published Papers (2015-17)</b>
+                    <div>
+                      <table class="table table-hover">
+                        <thead class="table-success">
+                          <tr>
+                            <th colspan="4" class="text-center align-middle">Journal Publication</th>
+                          </tr>
+                        </thead>
+                        <tr class="table-primary">
+                          <th class="text-center align-middle">Year</th>
+                          <th class="text-center align-middle">Faculty / Students Name</th>
+                          <th class="text-center align-middle">Journal Publication (Title)</th>
+                          <th class="text-center align-middle">Journal Name/ Volume (Issue) page number</th>
+                        </tr>
+                        <tr>
+                          <th>2021</th>
+                          <td>Palkondwar, P., and Panchwadkar, A. A.</td>
+                          <td>Effect of parametric changes on the natural 
+                            frequency of metallic bellow for constant bellow 
+                            diameter (d) to cavity diameter (D) ratio</td>
+                            <td>International Journal for Research in 
+                              Applied Science & Technology, Vol. 8, pp. 77-82</td>
+                        </tr>
+                        <tr>
+                          <th rowspan="6">2020</th>
+                          <td>Vivekanandan, N., Fulambarkar, A. M.</td>
+                          <td>Experimental evaluation of anti-lock braking 
+                            system performance of rough road</td>
+                          <td>International Journal of Mechanical and Production 
+                          Engineering Research and Development, Vol. 10, No. 2, pp. 589-604 (Scopus)
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>Vivekanandan, N., Fulambarkar, A. M., and Waghmare, S</td>
+                          <td>Experimental validation of fuzzy logic based anti-lock 
+                            braking system used in quarter car model</td>
+                            <td>International Journal of Control and Automation, 
+                              Vol. 13, No. 2, pp. 332 – 348 (Scopus)</td>
+                        </tr>
+                        <tr>
+                          <td>Shinde, N. N., and Panchwadkar, A. A.</td>
+                          <td>Thermo-structural analysis of runner of exhaust manifold</td>
+                            <td>International Research journal of Engineering 
+                              and Technology, Vol. 7, No. 3, pp. 3048-3052</td>
+                        </tr>
+                        <tr>
+                          <td>Shinde, A. B., and Panchawadkar, A. A.</td>
+                          <td>Parametric study of micro electro mechanical 
+                            system capacitive type accelerometer</td>
+                            <td>International Research Journal of Engineering 
+                              and Technology, Vol. 7, No. 3, pp. 155-159</td>
+                        </tr>
+                        <tr>
+                          <td>Gaykar, A., Jujaray, A., Mutalik, S., Waghmode, P., Matekar, S. B.</td>
+                          <td>Design and analysis of 3D scanning system for scanning an object</td>
+                            <td>International Journal of Emerging Research and Technology, Vol. 9, No. 6, pp. 768-773</td>
+                        </tr>
+                        <tr>
+                          <td>Somwanshi, A. A., and Matekar, S. B., 2019</td>
+                          <td>Design and manufacturing of automatic classroom 
+                            vaccum cleaning robot</td>
+                            <td>International journal of Engineering Research 
+                              and Technology, Vol. 8, No. 10, pp. 266-269</td>
+                        </tr>
+                        <tr>
+                          <th rowspan="3">2019</th>
+                          <td>Matekar, S. B., and Fulambarkar, A. M., 2020</td>
+                          <td>Displacement analysis of slider in slider-crank 
+                            mechanism with joint clearance</td>
+                          <td>Australian Journal of Mechanical Engineering, pp. 
+                            1-10, https://doi.org/10.1080/14484846.2020.1763547 (ESCI & Scopus)</td>
+                        </tr>
+                        <tr>
+                          <td>Matekar, S. B., Fulambarkar, A. M.</td>
+                          <td>Tolerance design of path generating four bar mechanism</td>
+                          <td>International Review of Mechanical Engineering, 
+                            Vol. 13, No. 12, pp. 700-709 (Scopus)</td>
+                        </tr>
+                        <tr>
+                          <td>Solepatil, S., and Deore, N.</td>
+                          <td>Displacement analysis of compliant mechanism</td>
+                          <td>International Journal of Engineering and Advanced 
+                            Technology, Vol. 9, No. 1, pp. 4028-4032, DOI: 
+                            10.35940/ijeat.A1175.109119</td>
+                        </tr>
+                        <tr>
+                          <th rowspan="2">2018</th>
+                          <td>Matekar, S. B., and Fulambarkar, A. M.</td>
+                          <td>Simulation and experimental validation of 
+                            slider displacement in slider crank mechanism with 
+                            connecting rod tolerance and joint clearance</td>
+                            <td>International Review of Mechanical Engineering, 
+                              Vol. 12, No. 12, pp. 965-974 (Scopus).</td>
+                        </tr>
+                        <tr>
+                          <td>Budale, S., Dhanrale, A., Joshi, A., and Matekar, S. B.</td>
+                          <td>Design and manufacturing of shuttle cock throwing robot</td>
+                          <td>International Journal of Current Engineering Technology, 
+                            Vol. 8, No. 4, pp. 963-967</td>
+                        </tr>
+                      </table>
+                    </div>
+                    <div class="mt-5">
+                      <table class="table table-hover">
+                        <thead class="table-success">
+                          <tr>
+                            <th colspan="5" class="text-center align-middle">Conference Publication</th>
+                          </tr>
+                        </thead>
+                        <tr class="table-primary">
+                          <th class="text-center align-middle">Year</th>
+                          <th class="text-center align-middle">Author Name</th>
+                          <th class="text-center align-middle">Conference Publication (Title)</th>
+                          <th class="text-center align-middle">Conference Name</th>
+                          <th class="text-center align-middle">Proceedings name, DOI/ online link</th>
+                        </tr>
+                        <tr>
+                          <th rowspan="2">2021</th>
+                          <td>Matekar, S., and Fulambarkar, A.</td>
+                          <td>Robust design of deterministically synthesized four-bar mechanism</td>
+                          <td>In: Narasimham, G. S. V. L., Babu, A. V., Reddy, S. S., and Dhanasekaran, R., 
+                            (eds) Recent Trends in Mechanical Engineering, Lecture Notes in Mechanical Engineering. Springer, 
+                            Singapore, pp. 397-365</td>
+                          <td><a href="https://doi.org/10.1007/978-981-15-7557-0_35">https://doi.org/10.1007/978-981-15-7557-0_35</a> (Scopus)</td>
+                        </tr>
+                        <tr>
+                          <td>Matekar, S., and Fulambarkar, A.</td>
+                          <td>Robust synthesis of path generating four-bar mechanism</td>
+                          <td>In: Narasimham, G. S. V. L., Babu, A. V., Reddy, S. S., and Dhanasekaran, R., (eds) Recent Trends in Mechanical 
+                            Engineering, Lecture Notes in Mechanical Engineering. Springer, Singapore, pp. 397-365</td>
+                          <td><a href="https://doi.org/10.1007/978-981-15-7711-6_24">https://doi.org/10.1007/978-981-15-7711-6_24</a> (Scopus)</td>
+                        </tr>
 
-                      <ol>
-                        <li>Journal Publications</li>
-                        <ul>
-                          <li>Mrs. Shital Pawar and Mr. A. A. Panchwadkar, “Estimation of state variables of Active
-                            Suspension system using Kalman Filter”, International Engineering Research Journal, ISSN:
-                            E-2277-4106 P-2347-5161, 2017.</li>
-                          <li>Mr. Kalaskar Pratik and Mr. N. Vivekanandan, “Improvement of Anti-lock braking system on
-                            rough road using Artificial Neural Networks”, International Journal of Computation and
-                            application, 2017.</li>
+                        <tr>
+                          <th rowspan="2">2020</th>
+                          <td>Samantaraya, D., Lakade, S.</td>
+                          <td>Environmentally friendly machining for hardened steels</td>
+                          <td>In Pawar, P. M., et al. (eds.), Techno-Societal 2018</td>
+                          <td>pp. 491-499, <a href="https://doi.org/10.1007/978-3-030-16962-6_50">https://doi.org/10.1007/978-3-030-16962-6_50</a> (Scopus)</td>
+                        </tr>
+                        <tr>
+                          <td>Samantaraya, D., Lakade, S</td>
+                          <td>Hard turning cutting tool materials used in 
+                            automotive and bearing manufacturing applications</td>
+                          <td>A review, IOP Conf. Series: Materials Science and 
+                            Engineering 814, (2020) 012005, IOP Publishing</td>
+                          <td>doi:10.1088/1757-899X/814/1/012005 (Scopus)</td>
+                        </tr>
 
-                        </ul>
-                        <li>Conference Publications</li>
+                        
+                      </table>
+                    </div>
+                      <b>Batch-wise List of Published Papers (2016-18)</b>
+                        <ol>
+                          <li>Journal Publications</li>
                         <ul>
-                          <li>Mrs. Agale Chaital and Mr. L. V. Awadhani, “Design and Development of Variable Precleaner
-                            for Enhancing Flow Range”, PG. Conference 2017.</li>
-                          <li>Mr. Bansode Pradip T and Mr. Sanjay B. Matekar, “Design and analysis of door stopping
-                            mechanism for door in door refrigerator”, PG. Conference 2017.</li>
-                          <li>Mr. Bawaskar Umesh S and Dr. P. J. Awasare , “Investigation of Fatigue Life of Wheel due to Nut Loosening in Commercial Vehicle”, PG. Conference 2017.</li>
-                          <li>Mr. N. N. Kadu and Mr. N. Vivekanandan “Analysis and Reduction of Squeal Noise in a Disc Brake of an Automotive”, PG. Conference. 2015.</li>
-                          <li>Mr. Pradip B. Sontakke and Mr. N. Vivekanandan “Vibration analysis and reduction in vicration of steering wheel of an agricultural tractor”, PG. Conference. 2015.</li>
-                          <li>Mr. Bhosale Dhanaji H. and Dr. P. J. Awasare, “Design and Development of Flexible Bin for Refrigerator Door”, PG. Conference 2017.</li>
-                          <li>Mrs. Chavan Pratiksha T and Mr. L. V. Awadhani, “Design modification of Bonnet Seal based on Numerical analysis and Validation”, PG. Conference 17.</li>
-                          <li>Mr. Dhaumal Omkar S.and Mr. L. V. Awadhani, “Design Modifications for Fatigue Life Enhancement of Composite Pinned Joint”, PG. Conference 2017.</li>
-                          <li>Mr. Gavali Rahul U. and Dr. Sanjay S. Lakade, “ Tribological Behavior of Natural Fiber Reinforced Polypropylene Composite”, PG. Conference 2017.</li>
-                          <li>Mr. Hemke Vishwas V. and Dr. Sanjay S. Lakade, “Influence of Carbon Black on Morphology, Mechanical Behavior of PP/ABS Composite and its Composites with and without Compatibilizer”, PG. Conference 2017.</li>
-                          <li>Mr. Kalaskar Pratik V and Mr. N. Vivekanandan, “Improvement of Anti-Lock Braking System Performance on Rough Road using Intelligent Algorithm”, PG. Conference 2017.</li>
-                          <li>Mrs. Mane Sarika A and Dr. P. J. Awasare, “Evaluation of Sheep Femur Bone Mechanical Properties in Stance Configuration by Using Experimental and Numerical Methods”, PG. Conference 2017.</li>
-                          <li>Mr. Musale Tejas and Mr. L. V. Awadhani, “Comparative Investigation of Bolt Modelling Technique used for Structural Stress Analysis of Fastening Bolt”, PG. Conference 2017.
+                          <li>Mrs. Trupti Rankhambe, and Mr. Gajendra Nhaichaniya, “Topology Optimization of Motorcycle
+                            Swing Arm” International Journal for Science and Advance Research in Technology (IJSART),
+                            ISSN: 2395-1052, page no. 413, may-2017.
                           </li>
-
                         </ul>
                       </ol>
-
-
-                      <b>Batch-wise List of Published Papers (2016-18)</b>
-                      <ol>
-                        <li>Journal Publications</li>
-                      <ul>
-                        <li>Mrs. Trupti Rankhambe, and Mr. Gajendra Nhaichaniya, “Topology Optimization of Motorcycle
-                          Swing Arm” International Journal for Science and Advance Research in Technology (IJSART),
-                          ISSN: 2395-1052, page no. 413, may-2017.</li>
-
-                      </ul>
-                    </ol>
-
-
+                      <b>Batch-wise List of Published Papers (2015-17)</b>
+                        <ol>
+                          <li>Journal Publications</li>
+                          <ul>
+                            <li>Mrs. Shital Pawar and Mr. A. A. Panchwadkar, “Estimation of state variables of Active
+                              Suspension system using Kalman Filter”, International Engineering Research Journal, ISSN:
+                              E-2277-4106 P-2347-5161, 2017.</li>
+                            <li>Mr. Kalaskar Pratik and Mr. N. Vivekanandan, “Improvement of Anti-lock braking system on
+                              rough road using Artificial Neural Networks”, International Journal of Computation and
+                              application, 2017.</li>
+                          </ul>
+                          <li>Conference Publications</li>
+                          <ul>
+                            <li>Mrs. Agale Chaital and Mr. L. V. Awadhani, “Design and Development of Variable Precleaner
+                              for Enhancing Flow Range”, PG. Conference 2017.</li>
+                            <li>Mr. Bansode Pradip T and Mr. Sanjay B. Matekar, “Design and analysis of door stopping
+                              mechanism for door in door refrigerator”, PG. Conference 2017.</li>
+                            <li>Mr. Bawaskar Umesh S and Dr. P. J. Awasare , “Investigation of Fatigue Life of Wheel due to Nut Loosening in Commercial Vehicle”, PG. Conference 2017.</li>
+                            <li>Mr. N. N. Kadu and Mr. N. Vivekanandan “Analysis and Reduction of Squeal Noise in a Disc Brake of an Automotive”, PG. Conference. 2015.</li>
+                            <li>Mr. Pradip B. Sontakke and Mr. N. Vivekanandan “Vibration analysis and reduction in vicration of steering wheel of an agricultural tractor”, PG. Conference. 2015.</li>
+                            <li>Mr. Bhosale Dhanaji H. and Dr. P. J. Awasare, “Design and Development of Flexible Bin for Refrigerator Door”, PG. Conference 2017.</li>
+                            <li>Mrs. Chavan Pratiksha T and Mr. L. V. Awadhani, “Design modification of Bonnet Seal based on Numerical analysis and Validation”, PG. Conference 17.</li>
+                            <li>Mr. Dhaumal Omkar S.and Mr. L. V. Awadhani, “Design Modifications for Fatigue Life Enhancement of Composite Pinned Joint”, PG. Conference 2017.</li>
+                            <li>Mr. Gavali Rahul U. and Dr. Sanjay S. Lakade, “ Tribological Behavior of Natural Fiber Reinforced Polypropylene Composite”, PG. Conference 2017.</li>
+                            <li>Mr. Hemke Vishwas V. and Dr. Sanjay S. Lakade, “Influence of Carbon Black on Morphology, Mechanical Behavior of PP/ABS Composite and its Composites with and without Compatibilizer”, PG. Conference 2017.</li>
+                            <li>Mr. Kalaskar Pratik V and Mr. N. Vivekanandan, “Improvement of Anti-Lock Braking System Performance on Rough Road using Intelligent Algorithm”, PG. Conference 2017.</li>
+                            <li>Mrs. Mane Sarika A and Dr. P. J. Awasare, “Evaluation of Sheep Femur Bone Mechanical Properties in Stance Configuration by Using Experimental and Numerical Methods”, PG. Conference 2017.</li>
+                            <li>Mr. Musale Tejas and Mr. L. V. Awadhani, “Comparative Investigation of Bolt Modelling Technique used for Structural Stress Analysis of Fastening Bolt”, PG. Conference 2017.
+                            </li>
+                          </ul>
+                        </ol>
+                        
                     </div>
                   </div>
                 </div>
