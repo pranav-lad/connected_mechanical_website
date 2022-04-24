@@ -24,6 +24,11 @@ and open the template in the editor.
          <link rel="stylesheet" href="bootstrap.min.css" type="text/css"/>
          <link href="../../vender/css/navbar.css" rel="stylesheet" />
 		 <link href="../../vender/css/style1.css" rel="stylesheet" />
+     <style>
+       * {
+         margin: 0;
+       }
+     </style>
     </head>
     <body>
 	<?php include("pccoe-header.php"); ?>
@@ -249,7 +254,7 @@ and open the template in the editor.
 
     
         
-    <section class="p-3">
+    <section class="mt-4">
       <div class="container-lg ">
         <div class="bg-light shadow rounded p-3">
           <div class="border-bottom border-1 border-primary mb-3">
