@@ -459,7 +459,15 @@
                   <div id="collapseTwo1" class="accordion-collapse collapse" aria-labelledby="headingTwo1"
                     data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                      <h3>Data Unavailable</h3>
+                      <ul>
+                        <li class="my-2">Vehicle Dynamics</li>
+                        <li class="my-2">Stress Analysis</li>
+                        <li class="my-2">Fatigue and Fracture Analysis</li>
+                        <li class="my-2">Noise Vibration And Harshness (NVH)</li>
+                        <li class="my-2">Safety</li>
+                        <li class="my-2">Analysis and Synthesis of Mechanisms</li>
+                        <li class="my-2">Reliability in Engineering</li>
+                      </ul>
                     </div>
                   </div>
                 </div>
