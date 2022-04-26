@@ -5,14 +5,14 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y33X5YZFHF"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
+        window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-    gtag('config', 'G-Y33X5YZFHF');
+        gtag('config', 'G-Y33X5YZFHF');
     </script>
     <!-- Required meta tags -->
     <meta charset="utf-8" />
@@ -32,29 +32,30 @@
     <link href="vender/icon/css/solid.css" rel="stylesheet" />
     <link href="vender/css/popup.css?v=<?php echo time(); ?>" rel="stylesheet" />
     <link href="vender/css/link.css?v=<?php echo time(); ?>" rel="stylesheet" />
-    
+
     <title>Department Of Mechanical Engineering | PCCOE</title>
 
     <style>
-    html {
-        scroll-behavior: smooth;
-    }
+        html {
+            scroll-behavior: smooth;
+        }
     </style>
 </head>
 
-<body class="faded" id ="faded">
-<!-- PopUP -->
-<div class="popup_outside_black" id="outsidebg">
-<div class="popup">
-        <div class="d-flex flex-row-reverse crosspop pe-5">
-        <button id="close" onclick="changeClass()">&times;</button></div>
-        <!-- <h2><i>i-Mace</i> Second Call For Papers</h2> -->
-        <a href="https://drive.google.com/file/d/1bTh4iMkT1kt6HfkMPSeMJnP0Ajt2PTU8/view?usp=sharing " target="_blank">
-            <img class="img-fluid p-1 bg-light" src="vender\img\popup\flyer2.jpg" alt="">
-        </a>
-        <!-- <a href="https://i-mace.pccoepune.com/" class = "last-button">Conference Website</a> -->
-</div>
-</div>
+<body class="faded" id="faded">
+    <!-- PopUP -->
+    <div class="popup_outside_black" id="outsidebg">
+        <div class="popup">
+            <div class="d-flex flex-row-reverse crosspop pe-5">
+                <button id="close" onclick="changeClass()">&times;</button>
+            </div>
+            <!-- <h2><i>i-Mace</i> Second Call For Papers</h2> -->
+            <a href="https://drive.google.com/file/d/1bTh4iMkT1kt6HfkMPSeMJnP0Ajt2PTU8/view?usp=sharing " target="_blank">
+                <img class="img-fluid p-1 bg-light" src="vender\img\popup\flyer2.jpg" alt="">
+            </a>
+            <!-- <a href="https://i-mace.pccoepune.com/" class = "last-button">Conference Website</a> -->
+        </div>
+    </div>
 
     <!-- Start Header -->
     <?php include("pccoe-header.php"); ?>
@@ -301,13 +302,11 @@
                 </div>
             </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
-            data-bs-slide="prev">
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
         </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions"
-            data-bs-slide="next">
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
@@ -355,24 +354,22 @@
                     </div>
                     <ul class="section-list">
                         <!-- <marquee direction="up" height="305px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();"> -->
-                        <a target="_blank"
-                            href="https://docs.google.com/forms/d/e/1FAIpQLScGsw3nasQ5Htfit1Obw3sK0aurDh7CfJiUT5TZv64gSM4Q1Q/viewform">
+                        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScGsw3nasQ5Htfit1Obw3sK0aurDh7CfJiUT5TZv64gSM4Q1Q/viewform">
                             <li>Exit Survey Form Link</li>
                         </a>
                         <a target="_blank" href="https://forms.gle/R3wQMM5Pk4RoJ9Wh9">
                             <li>Alumni Survey Form Link</li>
                         </a>
-                        <a target="_blank"
-                            href="https://docs.google.com/forms/d/e/1FAIpQLSdWdx0PJ_kQFJ1YD1TtYBo6bOYYzXKZz4hm_Jk6Hh7yjQjH0A/viewform?usp=sf_link">
+                        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdWdx0PJ_kQFJ1YD1TtYBo6bOYYzXKZz4hm_Jk6Hh7yjQjH0A/viewform?usp=sf_link">
                             <li>Parent Survey Form Link</li>
                         </a>
                         <!-- </marquee> -->
                     </ul>
                 </div>
                 <div class="py-3 d-flex justify-content-center">
-                        <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-                        <div class="elfsight-app-51b414f7-fac4-469e-813a-d0c87704ebca"></div>
-                    
+                    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+                    <div class="elfsight-app-51b414f7-fac4-469e-813a-d0c87704ebca"></div>
+
                     <!-- <div class="col-4">
                         <button type="button" class="btn btn-primary btn">Alumni Feedback</button>
                     </div> -->
@@ -380,7 +377,7 @@
 
             </div>
 
-            
+
             <div class="col-lg-9">
                 <div class="container-fluid p-3 mt-2 about-section bg-light rounded">
                     <div class="border-bottom border-1 border-primary">
@@ -388,10 +385,7 @@
                     </div>
                     <div class="row mt-4">
                         <div class="col-lg-5 mt-3">
-                            <iframe width="100%" height="225" src="https://www.youtube.com/embed/I8FMF-yyyjc"
-                                title="PCCOE" class="rounded" frameborder="0"
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
+                            <iframe width="100%" height="225" src="https://www.youtube.com/embed/I8FMF-yyyjc" title="PCCOE" class="rounded" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                         <div class="col-lg-7 text-data">
                             <p class="text-data mt-2">
@@ -411,10 +405,10 @@
                     </div>
                 </div>
                 <!-- start -->
-                
+
                 <!-- end -->
 
-                
+
                 <div class="row mt-3">
                     <div class="col-sm-6">
                         <div class="container-fluid p-3 pb-1 bg-light">
@@ -422,8 +416,7 @@
                                 <p class="fs-4 color-blue">Highlighted Achievements</p>
                             </div>
                             <div class="row text-center justify-content-center">
-                                <marquee height="420px;" scrollamount="4" onmouseover="this.stop();"
-                                    onmouseout="this.start();">
+                                <marquee height="420px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                                     <div class="d-flex justify-content-around">
                                         <div class="m-2 bg-white border rounded">
                                             <img src="vender/files/notices/blank.jpg">
@@ -432,9 +425,9 @@
                                         </div>
                                         <div class="m-2 bg-white border rounded">
                                             <img src="vender/files/notices/tkr_award2resize.jpeg">
-                                            <p class="p-2 mb-0 font-title text-data text-wrap"><small><b>Team Kratos Racing</b> (TKR) electric 
-                                                of PCCoE Pune secured <b>Overall First Rank</b> in Formula Bharat electric 2022 
-                                                competition held at Kari Motorsports Coimbatore.</small>
+                                            <p class="p-2 mb-0 font-title text-data text-wrap"><small><b>Team Kratos Racing</b> (TKR) electric
+                                                    of PCCoE Pune secured <b>Overall First Rank</b> in Formula Bharat electric 2022
+                                                    competition held at Kari Motorsports Coimbatore.</small>
                                             </p>
                                         </div>
                                         <div class="m-2 bg-white border rounded">
@@ -505,26 +498,18 @@
                         <div class="container-fluid news-section p-1 bg-light">
                             <ul class="nav nav-tabs nav-fill tab-section" id="myTab" role="tablist">
                                 <li class="nav-item" role="presentation">
-                                    <button class="nav-link active" id="home-tab" data-bs-toggle="tab"
-                                        data-bs-target="#home" type="button" role="tab" aria-controls="home"
-                                        aria-selected="true">Notices</button>
+                                    <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Notices</button>
                                 </li>
                                 <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="profile-tab" data-bs-toggle="tab"
-                                        data-bs-target="#profile" type="button" role="tab" aria-controls="profile"
-                                        aria-selected="false">Events</button>
+                                    <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button" role="tab" aria-controls="profile" aria-selected="false">Events</button>
                                 </li>
                                 <li class="nav-item" role="presentation">
-                                    <button class="nav-link" id="contact-tab" data-bs-toggle="tab"
-                                        data-bs-target="#contact" type="button" role="tab" aria-controls="contact"
-                                        aria-selected="false">Achievements</button>
+                                    <button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact" type="button" role="tab" aria-controls="contact" aria-selected="false">Achievements</button>
                                 </li>
                             </ul>
                             <div class="tab-content content-section" id="myTabContent">
-                                <div class="tab-pane fade show active" id="home" role="tabpanel"
-                                    aria-labelledby="home-tab">
-                                    <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();"
-                                        onmouseout="this.start();">
+                                <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+                                    <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                                         <ul class="section-list section-list-sm">
                                             <!-- <a target="_blank" href="vender/files/notices/Very Important register on Internship and NEAT Portal -reg..pdf">
                         <li><small>Very important register on internship and NEAT portal -reg.</small></li>
@@ -566,8 +551,7 @@
                                     <p class="read-more"><a href="news_section/announcement.php">read more</a></p>
                                 </div>
                                 <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                                    <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();"
-                                        onmouseout="this.start();">
+                                    <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                                         <ul class="section-list section-list-sm">
                                             <a target="_blank" href="vender/files/notices/i-mace_first.pdf">
                                                 <li><small>I-MACE 2022 International conference on innovation in
@@ -587,28 +571,33 @@
                                     <p class="read-more"><a href="news_section/upcomming_event.php">read more</a></p>
                                 </div>
                                 <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-                                    <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();"
-                                        onmouseout="this.start();">
+                                    <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                                         <ul class="section-list section-list-sm">
+                                            <a target="_blank" href="vender\files\notices\img_1.png">
+                                                <li><small>Prof. Gauri Phadatare, Dr. P. A. Deshmukh & Dr. U. G. Potdar received a 
+                                                    grand of Rs. 12,14,406 from AICTE Quality Improvement Schemes (AQIS) for the title 
+                                                    "Utilization of Green-clean energy source for the development of a novel hybrid line 
+                                                    and point focused solar collector system for biomedical steam sterilization application."</small></li>
+                                            </a>
                                             <a target="_blank" href="research/student_achivements.php">
                                                 <li><small>Achievement in <b>GATE 2022</b> from Mechanical Engineering Department.</small></li>
                                             </a>
                                             <a target="_blank" href="vender/files/notices/tkr_award2.jpeg">
-                                                <li><small><b>Team Kratos Racing</b> (TKR) electric of PCCoE Pune secured 
-                                                    <b>Overall First Rank</b> in Formula Bharat electric 2022 competition 
-                                                    held at Kari Motorsports Coimbatore.</small></li>
+                                                <li><small><b>Team Kratos Racing</b> (TKR) electric of PCCoE Pune secured
+                                                        <b>Overall First Rank</b> in Formula Bharat electric 2022 competition
+                                                        held at Kari Motorsports Coimbatore.</small></li>
                                             </a>
                                             <a target="_blank" href="vender/files/notices/Pranav_Mulay.jpeg">
                                                 <li><small>One of our Mechanical
-                                                    Engineering 2019 passout student <b>Mr. Pranav Mulay</b> joined
-                                                    <b>Tesla</b> as a <b>New Product Introduction (NPI) Engineer
-                                                    </b>intern at the Megafactory in Lathrop, California.</small></li>
+                                                        Engineering 2019 passout student <b>Mr. Pranav Mulay</b> joined
+                                                        <b>Tesla</b> as a <b>New Product Introduction (NPI) Engineer
+                                                        </b>intern at the Megafactory in Lathrop, California.</small></li>
                                             </a>
                                             <a target="_blank" href="vender/files/notices/Karan_Hingmire.jpeg">
                                                 <li><small>One of our Mechanical
-                                                    Engineering 2017 passout student <b>Mr. Karan Hingmire</b> joined <b>Tesla</b> as
-                                                    a <b>Global Supply Management</b> - Intern with the Seating team in
-                                                    Fremont, California</small></li>
+                                                        Engineering 2017 passout student <b>Mr. Karan Hingmire</b> joined <b>Tesla</b> as
+                                                        a <b>Global Supply Management</b> - Intern with the Seating team in
+                                                        Fremont, California</small></li>
                                             </a>
 
                                             <a target="_blank" href="vender/files/notices/cetrificate_jaya_goyal.pdf">
@@ -720,34 +709,28 @@
                         </h5>
                     </div>
                     <div class="d-flex justify-content-evenly align-self-center">
-                        <a targrt="_blank" href="https://www.instagram.com/pccoepune/"
-                            class="text-decoration-none text-white">
+                        <a targrt="_blank" href="https://www.instagram.com/pccoepune/" class="text-decoration-none text-white">
                             <span class="fs-4">
                                 <i class="fab fa-instagram"></i>
                             </span>
                         </a>
-                        <a targrt="_blank" href="https://www.linkedin.com/company/pccoe-pune/?trk=biz-companies-cym"
-                            class="text-decoration-none text-white">
+                        <a targrt="_blank" href="https://www.linkedin.com/company/pccoe-pune/?trk=biz-companies-cym" class="text-decoration-none text-white">
                             <span class="fs-4">
                                 <i class="fab fa-linkedin-in"></i>
                             </span>
                         </a>
-                        <a targrt="_blank" href="https://www.facebook.com/PCCOENigadi/"
-                            class="text-decoration-none text-white">
+                        <a targrt="_blank" href="https://www.facebook.com/PCCOENigadi/" class="text-decoration-none text-white">
                             <span class="fs-4">
                                 <i class="fab fa-facebook"></i>
                             </span>
                         </a>
 
-                        <a targrt="_blank"
-                            href="https://twitter.com/pccoe_pune?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
-                            class="text-decoration-none text-white">
+                        <a targrt="_blank" href="https://twitter.com/pccoe_pune?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="text-decoration-none text-white">
                             <span class="fs-4">
                                 <i class="fab fa-twitter"></i>
                             </span>
                         </a>
-                        <a targrt="_blank" href="https://www.youtube.com/channel/UCQiPDETOiteTLmAvvPk1WjA"
-                            class="text-decoration-none text-white">
+                        <a targrt="_blank" href="https://www.youtube.com/channel/UCQiPDETOiteTLmAvvPk1WjA" class="text-decoration-none text-white">
                             <span class="fs-4">
                                 <i class="fab fa-youtube"></i>
                             </span>
@@ -837,27 +820,27 @@
     <!-- <script src="vender/js/navbar.js"></script> -->
 
     <script type="text/javascript">
-    //10sec timer
-    function dwntime() {
-        var timeleft = 5;
-        var downloadTimer = setInterval(function() {
-            if (timeleft <= 0) {
-                clearInterval(downloadTimer);
-                document.getElementById("demo").innerHTML = "Congratulations";
-                document.getElementById("myNav").style.left = "100%";
-                document.getElementById("myNav1").style.left = "-100%";
-            } else {
-                document.getElementById("demo").innerHTML = timeleft;
+        //10sec timer
+        function dwntime() {
+            var timeleft = 5;
+            var downloadTimer = setInterval(function() {
+                if (timeleft <= 0) {
+                    clearInterval(downloadTimer);
+                    document.getElementById("demo").innerHTML = "Congratulations";
+                    document.getElementById("myNav").style.left = "100%";
+                    document.getElementById("myNav1").style.left = "-100%";
+                } else {
+                    document.getElementById("demo").innerHTML = timeleft;
 
-            }
-            timeleft -= 1;
-        }, 1000);
-    }
+                }
+                timeleft -= 1;
+            }, 1000);
+        }
 
-    function changeClass() {
-        document.getElementById('outsidebg').className = "popup_outside_white";
-        document.getElementById('faded').className = "unfaded";
-    }
+        function changeClass() {
+            document.getElementById('outsidebg').className = "popup_outside_white";
+            document.getElementById('faded').className = "unfaded";
+        }
     </script>
     <script src="vender\js\popup.js"></script>
 </body>
