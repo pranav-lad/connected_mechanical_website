@@ -574,10 +574,14 @@
                                     <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                                         <ul class="section-list section-list-sm">
                                             <a target="_blank" href="vender\files\notices\img_1.png">
-                                                <li><small>Prof. Gauri Phadatare, Dr. P. A. Deshmukh & Dr. U. G. Potdar received a 
-                                                    grand of Rs. 12,14,406 from AICTE Quality Improvement Schemes (AQIS) for the title 
-                                                    "Utilization of Green-clean energy source for the development of a novel hybrid line 
-                                                    and point focused solar collector system for biomedical steam sterilization application."</small></li>
+                                                <li><small>Prof. Gauri Phadatare, Dr. P. A. Deshmukh & Dr. U. G. Potdar received a
+                                                        grand of Rs. 12,14,406 from AICTE Quality Improvement Schemes (AQIS) for the title
+                                                        "Utilization of Green-clean energy source for the development of a novel hybrid line
+                                                        and point focused solar collector system for biomedical steam sterilization application."</small></li>
+                                            </a>
+                                            <a target="_blank" href="vender\files\notices\img_2.png">
+                                                <li><small><b>Team Solarium</b> Mechanical Engineering of PCCOE Pune have managed to achieve an overall First Rank
+                                                        in <b>"Saur Urja Vehicle Challenge 5.0"</b></small></li>
                                             </a>
                                             <a target="_blank" href="research/student_achivements.php">
                                                 <li><small>Achievement in <b>GATE 2022</b> from Mechanical Engineering Department.</small></li>
