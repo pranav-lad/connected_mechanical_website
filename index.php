@@ -574,8 +574,8 @@
                                     <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                                         <ul class="section-list section-list-sm">
                                             <a target="_blank" href="vender\files\notices\img_1.png">
-                                                <li><small>Prof. Gauri Phadatare, Dr. P. A. Deshmukh & Dr. U. G. Potdar received a
-                                                        grand of Rs. 12,14,406 from AICTE Quality Improvement Schemes (AQIS) for the title
+                                                <li><small><b>Prof. Gauri Phadatare</b>, <b>Dr. P. A. Deshmukh</b> & <b>Dr. U. G. Potdar</b> received a
+                                                        grand of <b>Rs. 12,14,406</b> from AICTE Quality Improvement Schemes (AQIS) for the title
                                                         "Utilization of Green-clean energy source for the development of a novel hybrid line
                                                         and point focused solar collector system for biomedical steam sterilization application."</small></li>
                                             </a>
