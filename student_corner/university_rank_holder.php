@@ -202,7 +202,7 @@
       <div class="row justify-content-center pt-3">
 
 
-      <h6 class="head1"><span>AY2020-21</span></h6>
+      <!-- <h6 class="head1"><span>AY2020-21</span></h6>
         <div class="col-lg-3 col-sm-6">
           <div class="item   text-center">
             <div class="text-center"><img src="../vender/files/toppers/khedekar-hanumant.jpg"></div>
@@ -291,7 +291,7 @@
             <p class="description">All Branches Rank 10</p>
             <p class="batch">~ Second Year</p>
           </div>
-        </div>
+        </div> -->
 
 
       <!-- ----------------- year 2020 ---------------------------------------------------------------- -->
