@@ -870,7 +870,7 @@
                 </div>
                 <!-- -----------------------------------  -->
                 <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
-                    <div class="col-sm-3 p-2 text-center align-self-center container-fluid"> <img src="../faculty photo/Dr. Avinash Borgaonkar.JPG     " class="card-img" style="width: 150px;" alt="Faculty Image"> <br/> <button class="website btn btn-primary mt-3"> <a href = "https://sites.google.com/view/avinash-borgaonkar/home" target="_blank"><span class="text-white">Personal Website</span></a> </button>                        </div>
+                    <div class="col-sm-3 p-2 text-center align-self-center container-fluid"> <img src="../faculty photo/Dr. Avinash Borgaonkar.JPG     " class="card-img" style="width: 150px;" alt="Faculty Image"> <br/> <button class="website btn btn-primary mt-3"> <a href = "https://sites.google.com/view/dr-avinash-borgaonkar" target="_blank"><span class="text-white">Personal Website</span></a> </button>                        </div>
                     <div class="col-sm-9 align-self-center pt-3">
                         <h4> Dr. A. V. Borgaonkar </h4>
                         <div>
