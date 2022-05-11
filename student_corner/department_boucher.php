@@ -228,6 +228,31 @@
                     Samvaad Volume 1 Issue 7
                   </a>
                 </li>
+                <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
+                  <a target="_blank" href="../vender/files/department_boucher/Samvaad, Volume 1, Issue 8 , 16 November 2021.pdf">
+                    Samvaad Volume 1 Issue 8
+                  </a>
+                </li>
+                <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
+                  <a target="_blank" href="../vender/files/department_boucher/Samvaad, Volume 1, Issue 9 , 15 December 2021.pdf">
+                    Samvaad Volume 1 Issue 9
+                  </a>
+                </li>
+                <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
+                  <a target="_blank" href="../vender/files/department_boucher/Samvaad, Volume 1, Issue 10 , 15 January 2022.pdf">
+                    Samvaad Volume 1 Issue 10
+                  </a>
+                </li>
+                <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
+                  <a target="_blank" href="../vender/files/department_boucher/Samvaad, Volume 1, Issue 11, Feb 2022.pdf">
+                    Samvaad Volume 1 Issue 11
+                  </a>
+                </li>
+                <li><span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span> 
+                  <a target="_blank" href="../vender/files/department_boucher/Samvaad, Volume 1, Issue 12, 15 March 2022.pdf">
+                    Samvaad Volume 1 Issue 12
+                  </a>
+                </li>
             </ul>
         </div>
     </div>
