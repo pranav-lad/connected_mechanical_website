@@ -15,9 +15,7 @@
     <!-- PCCOE HEADER FOOTER CSS FILE -->	
     <link rel="stylesheet" href="../imp-pccoe-style.css" type="text/css" />
   <!-- Icon Link -->
-  <link href="../vender/icon/css/brands.css" rel="stylesheet" />
-  <link href="../vender/icon/css/fontawesome.css" rel="stylesheet" />
-  <link href="../vender/icon/css/solid.css" rel="stylesheet" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
 
 
   <title>People | M.tech Heat Power Engineering | PG | Department of Mechanical Engineering at PCCOE</title>
