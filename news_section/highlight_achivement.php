@@ -202,6 +202,28 @@
             <ul class="fa-ul">
                 <li>
                     <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span>
+                    <a target="_blank" href="../vender/files/notices/team arnima.png">
+                    Final year <b> Mechanical Engineeing</b> students <b>Pratik Kuwar, Rajesh Tambe, Vaibhav Bhosale and Rohan Lokhande</b> National winner of <b>Solar Decathlon India 2022</b>.
+                    </a>
+                </li>
+                <li>
+                    <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span>
+                    <a target="_blank" href="../vender/files/notices/img_1.png">
+                    <b>Prof. Gauri Phadatare</b>, <b>Dr. P. A. Deshmukh</b> & <b>Dr. U. G. Potdar</b> received a
+                                                        grand of <b>Rs. 12,14,406</b> from AICTE Quality Improvement Schemes (AQIS) for the title
+                                                        "Utilization of Green-clean energy source for the development of a novel hybrid line
+                                                        and point focused solar collector system for biomedical steam sterilization application."
+                    </a>
+                </li>
+                <li>
+                    <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span>
+                    <a target="_blank" href="../vender/files/notices/img_2.png">
+                    <b>Team Solarium</b> Mechanical Engineering of PCCOE Pune have managed to achieve an overall First Rank
+                                                        in <b>"Saur Urja Vehicle Challenge 5.0"</b>
+                    </a>
+                </li>
+                <li>
+                    <span class="fa-li"><i class="fas fa-arrow-circle-right"></i></span>
                     <a target="_blank" href="../research/student_achivements.php">
                     Achievement in <b>GATE 2022</b> from Mechanical Engineering Department.
                     </a>

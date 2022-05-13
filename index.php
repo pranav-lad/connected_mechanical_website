@@ -429,6 +429,11 @@
                                             </p>
                                         </div>
                                         <div class="m-2 bg-white border rounded">
+                                            <img src="vender/files/notices/team arnima.png">
+                                            <p class="p-2 mb-0 font-title text-data text-wrap"><small>Final year <b> Mechanical Engineeing</b> students <b>Pratik Kuwar, Rajesh Tambe, Vaibhav Bhosale and Rohan Lokhande</b> National winner of <b>Solar Decathlon India 2022</b>.</small>
+                                            </p>
+                                        </div>
+                                        <div class="m-2 bg-white border rounded">
                                             <img src="vender/files/notices/Pranav_Mulay.jpeg">
                                             <p class="p-2 mb-0 font-title text-data"><small>One of our Mechanical
                                                     Engineering 2019 passout <br> student <b>Mr. Pranav Mulay</b> joined
@@ -571,6 +576,9 @@
                                 <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
                                     <marquee direction="up" height="400px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                                         <ul class="section-list section-list-sm">
+                                            <a target="_blank" href="vender/files/notices/team arnima.png">
+                                                <li><small>Final year <b> Mechanical Engineeing</b> students <b>Pratik Kuwar, Rajesh Tambe, Vaibhav Bhosale and Rohan Lokhande</b> National winner of <b>Solar Decathlon India 2022</b>.</small></li>
+                                            </a>
                                             <a target="_blank" href="vender\files\notices\img_1.png">
                                                 <li><small><b>Prof. Gauri Phadatare</b>, <b>Dr. P. A. Deshmukh</b> & <b>Dr. U. G. Potdar</b> received a
                                                         grand of <b>Rs. 12,14,406</b> from AICTE Quality Improvement Schemes (AQIS) for the title
