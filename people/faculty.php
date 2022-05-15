@@ -584,7 +584,7 @@
                                     <dd class="col-sm-9 col-8">12+ Years </dd> <dt class="col-sm-3 col-4">Area of interest</dt>
                                     <dd class="col-sm-9 col-8">
                                         <p> Product Design and Development,Numerical Methods, Optimisation, Surface engineering, Nanomaterials</p>
-                                    </dd> <span class="align-self-center text-muted"> Email&nbsp;:&nbsp;<a href="mailto: vrushali.bhalerao@pccoepune.org " >vrushali.bhalerao@pccoepune.org</a> | Contact&nbsp;:&nbsp;<a href="tel: +919850333565 " > 9850333565 </a> <div class="profile mt-1"> <button class="btn btn-primary btn-sm "> <a href=" https://scholar.google.com/citations?user=V7_D6qYAAAAJ&hl=en&oi=ao " target="_blank ">Google Scholar Profile</a> </button><!-- <button class="btn btn-sm btn-primary "> <a href = "#" target="_blank ">Scopus Profile</a> </button> --> </div></span>                                    </dl>
+                                    </dd> <span class="align-self-center text-muted"> Email&nbsp;:&nbsp;<a href="mailto: vrushali.bhalerao@pccoepune.org " >vrushali.bhalerao@pccoepune.org</a> | Contact&nbsp;:&nbsp;<a href="tel: +919850333565 " > 9850333565 </a> <div class="profile mt-1"> <button class="btn btn-primary btn-sm "> <a href="https://scholar.google.com/citations?hl=en&user=43Lw6HAAAAAJ" target="_blank ">Google Scholar Profile</a> </button><!-- <button class="btn btn-sm btn-primary "> <a href = "#" target="_blank ">Scopus Profile</a> </button> --> </div></span>                                    </dl>
                             </div>
                         </div>
                     </div>
