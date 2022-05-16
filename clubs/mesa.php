@@ -200,16 +200,234 @@
                 Mechanical Engineering Student Association (MESA)
               </h2>
         </div>
-        <div class="bg-light shadow rounded p-3">
+        <div class="bg-light shadow rounded p-4 ">
           <div class="border-bottom border-1 border-primary mb-3">
             <p class="fs-3 text-primary">About us</p>
           </div>
-          <h3>Data Unavailable</h3>
+          <!-- ----- css for responsiveness ------ -->
+          <style>
+            .team .flex-row-about-mesa h3{
+              text-align : left;
+              width : 100%;
+            }
+            .team .flex-row-about-mesa {
+              display: flex;
+              flex-direction : column;
+              justify-content : center;
+              text-align: left;
+              border-bottom : 1px solid #A3C1AD;
+              margin-bottom : 10px;
+              margin-left : 40px;
+              width : 92%;
+            }
+            .team-image{
+              width: 450px;
+            }
+            @media only screen and (max-width : 700px){
+              .flex-row-about-mesa {
+              margin-left : 0px;
+              flex-direction : column;  
+              }
+              .team .flex-row-about-mesa {
+              margin-left : 0px;
+              flex-direction : column;  
+              }
+              .team-image{
+                width: 280px;
+              }
+            }
+          </style>
+          <div class="flex-row-about-mesa" style = "display : flex;justify-content: center; align-items:center;">
+            <img src="img/mesa/logo.jpg" alt="" width = "200px"><p style = "padding : 30px">Mechanical Engineering Students Association
+            (MESA) at Pimpri Chinchwad college of Engineering
+            believes in the holistic development of the students to
+            meet their professional &amp; societal needs. It connects
+            the student community to the world outside the
+            classroom walls.</p>
+          </div>
+          <div class="border-bottom border-1 border-primary mb-3">
+            <p class="fs-3 text-primary">Objective</p>
+          </div>
+            <ul style = "padding : 20px 30px;">
+              <li>To establish an association of students working for students for their overall development.</li>
+              <li>To provide a platform for students to organize and manage intra and intercollegiate events.</li>
+              <li>To inculcate professional attitude, leadership quality, communication skills and event management skills in students by organizing various technical and non technical competitions, training programmes, guest lectures, workshops, webinars and other allied activities.
+</li>
+              <li>To build a bridge between students and industry by organizing interactive events with industry and industry professionals.</li>
+            </ul>
+            <br>
+            <hr>
+            <div class="flex-row-about-mesa" style = "display : flex;justify-content: space-around; align-items:center">
+              <h3>Faculty Coordinator <br> <b style = "color : #002D62">V. Y. Gaikhe</b></h3><img src="img/mesa/vygaikhemam.jpg" alt="" width = "200px">
+            </div>
+            <hr>
+            <br>
+            <div class="flex-row-about-mesa" style = "display : flex;justify-content: center; align-items:center">
+            <img src="img/mesa/team.jpg" alt="" class = "team-image"><p style = "padding : 30px"><span style = "font-size: 30px">Team MESA </span> <br>
+            It is a group of passionate students from the Mechanical Engineering Department. They are involved in planning, organizing and executing various technical and non-technical activities in the student's interests where efforts are made to groom the students.  
+            </p>
+          </div>
+          
+          <div class="team" style ="padding : 40px 20px">
+          
+<div class = "flex-row-about-mesa">
+          <h3>President</h3>
+          <ul>
+          <li>Omkar Kharade</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>Vice President</h3>
+          <ul>
+          <li>Akin Chavan</li>
+          </ul>
+          </div>
+<div class = "flex-row-about-mesa">
+          <h3>Secretary</h3>
+          <ul>
+          <li>Saurabh Vaidya</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>Treasurer</h3>
+          <ul>
+          <li>Nilesh  Patil</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>MESA Members</h3>
+          <ul>
+          <li>Sejal Baser</li>
+          <li>Aditya Wavhal</li>
+          <li>Noopura Pardeshi</li>
+          <li>Sahil Garud</li>
+          <li>Nishigandha Darekar</li>
+          <li>Dheeraj Badshe</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>Event Managers</h3>
+          <ul>
+          <li>Ashish Kulkarni</li>
+          <li>Sakshi Kokane</li>
+          <li>Mihir Bhansali</li>
+          <li>Shreyash Mogaveera</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>Social Media Team</h3>
+          <ul>
+          <li>Shruti Tambe</li>
+          <li>Sanket Shelke</li>
+          <li>Avadhoot Kulkarni</li>
+          <li>Kedar Agnihotri</li>
+          <li>Sakshi Kumane</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>Creative Team</h3>
+          <ul>
+          <li>Aditya Chakkarwar</li>
+          <li>Ashlesha Meshram</li>
+          <li>Ritesh Sutar</li>
+          <li>Himanshu Patil</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>Marketing Team</h3>
+          <ul>
+          <li>Saharsh Patil</li>
+          <li>Mustakeem Mujawar</li>
+          <li>Heet Visawadia</li>
+          <li>Anahita Puthanpura</li>
+          <li>Omkar Raut</li>
+          <li>Jyoti Biradar</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>Planning Analysts</h3>
+          <ul>
+          <li>Vaishnavi Kasar</li>
+          <li>Samyak Jain</li>
+          <li>Akanksha Patil</li>
+        </ul>
+        </div>
+        <div class = "flex-row-about-mesa">
+        <h3>Higher Study Cell</h3>
+        <ul>
+            <li>Rishabh Shukla</li>
+          <li>Sakshi Dahatonde</li>
+          <li>Gaurav Chinchole</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>(PDC) Professional Development Cell</h3>
+          <ul>
+          <li>Vaishnavi Shejwal</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>(ISR) Institutes Social Responsibility  Cell</h3>
+          <ul>
+          <li>Apurva Pardeshi</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>(NSS) National Service Scheme Cell</h3>
+          <ul>
+          <li>Siddhi Shinde</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>Art Circle Cell</h3>
+          <ul>
+          <li>Purvi Parakh</li>
+        </ul>
+        </div>
+          <div class = "flex-row-about-mesa">
+          <h3>(IIC) Innovation & Incubation Cell</h3>
+          <ul>
+          <li>Aniket Chavan</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>(T&P) Training and Placement Cell</h3>
+          <ul>
+          <li>Avdhoot Pandit</li>
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>(III) Industry Institute </h3>
+          <ul>
+          <li>Prasad Dabhade
+</li>
+
+          </ul>
+          </div>
+          <div class = "flex-row-about-mesa">
+          <h3>Interaction Cell</h3>
+          <ul>
+          <li>Prathmesh Palhade
+          </li>
+          </ul>
+          
+          
+          
+          <!-- -------------------------------------- add events here ---------------------------------------------------- -->
+          <!-- -------------------------------------- add events here ---------------------------------------------------- -->
+          
+          
+          
+          </div>
+          </div>
+            
+            
+          </div>
+          
+          
         </div>
       </div>
     </section>
-
-
     <!-- start footer -->
 <footer class="container-fluid">
   <div class="row bg-blue d-flex justify-content-center px-5 pb-3 mt-md-4">
