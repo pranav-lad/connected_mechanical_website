@@ -587,7 +587,7 @@
                                                 <li><small>Final year <b> Mechanical Engineeing</b> students <b>Pratik Kuwar, Rajesh Tambe, Vaibhav Bhosale and Rohan Lokhande</b> National winner of <b>Solar Decathlon India 2022</b>.</small></li>
                                             </a>
                                             <a target="_blank" href="vender\files\notices\img_1.png">
-                                                <li><small><b>Prof. Gauri Phadatare</b>, <b>Dr. P. A. Deshmukh</b> & <b>Dr. U. G. Potdar</b> received a
+                                                <li><small><b>Prof. Gauri Phadtare</b>, <b>Dr. P. A. Deshmukh</b> & <b>Dr. U. G. Potdar</b> received a
                                                         grand of <b>Rs. 12,14,406</b> from AICTE Quality Improvement Schemes (AQIS) for the title
                                                         "Utilization of Green-clean energy source for the development of a novel hybrid line
                                                         and point focused solar collector system for biomedical steam sterilization application."</small></li>
