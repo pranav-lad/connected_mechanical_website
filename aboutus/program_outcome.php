@@ -206,51 +206,75 @@
                         <tbody>
                             <tr>
                                 <td class="text-center">1</td>
-                                <td>Apply knowledge of mathematics, science, engineering fundamentals and an engineering specialization to the conceptualization of engineering models.</td>
+                                <td><b>Engineering knowledge: </b>Apply the knowledge of mathematics, science, engineering
+fundamentals, and an engineering specialization to the solution of complex engineering
+problems</td>
                             </tr>
                             <tr>
                                 <td class="text-center">2</td>
-                                <td>Identify, formulate, research literature and solve complex engineering problems reaching substantiated conclusions using first principles of mathematics and engineering sciences.</td>
+                                <td><b>Problem analysis: </b>Identify, formulate, review research literature, and analyze complex
+engineering problems reaching substantiated conclusions using first principles of
+mathematics, natural sciences, and engineering sciences</td>
                             </tr>
                             <tr>
                                 <td class="text-center">3</td>
-                                <td>Design solutions for complex engineering problems and design systems, components or processes that meet specified needs with appropriate consideration for public health and safety, cultural, societal, and environmental considerations. </td>
+                                <td><b>Design/development of solutions: </b>Design solutions for complex engineering problems
+and design system components or processes that meet the specified needs with
+appropriate consideration for the public health and safety, and the cultural, societal, and
+environmental considerations. </td>
                             </tr>
                             <tr>
                                 <td class="text-center">4</td>
-                                <td>Conduct investigations of complex problems including design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions.</td>
+                                <td><b>Conduct investigations of complex problems: </b>Use research-based knowledge and
+research methods including design of experiments, analysis and interpretation of data,
+and synthesis of the information to provide valid conclusions..</td>
                             </tr>
                             <tr>
                                 <td class="text-center">5</td>
-                                <td>Create, select and apply appropriate techniques, resources, and modern engineering tools, including prediction and modelling, to complex engineering activities, with an understanding of the limitations.</td>
+                                <td><b>Modern tool usage: </b>Create, select, and apply appropriate techniques, resources, and
+modern engineering and IT tools including prediction and modeling to complex
+engineering activities with an understanding of the limitations.</td>
                             </tr>
                             <tr>
                                 <td class="text-center">6</td>
-                                <td>Function effectively as an individual, and as a member or leader in diverse teams and in multi-disciplinary settings.</td>
+                                <td><b>The engineer and society: </b>Apply reasoning informed by the contextual knowledge to
+assess societal, health, safety, legal and cultural issues and the consequent responsibilities
+relevant to the professional engineering practice.</td>
                             </tr>
                             <tr>
                                 <td class="text-center">7</td>
-                                <td>Communicate effectively on complex engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.</td>
+                                <td><b>Environment and sustainability: </b>Understand the impact of the professional engineering
+solutions in societal and environmental contexts, and demonstrate the knowledge of, and
+need for sustainable development.</td>
                             </tr>
                             <tr>
-                                <td class="text-center">8</td>
-                                <td>Demonstrate understanding of the societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to engineering practice.</td>
+                                <td class="text-center">8</td><td><b>Ethics: </b>
+                                Apply ethical principles and commit to professional ethics and responsibilities
+and norms of the engineering practice.</td>
                             </tr>
                             <tr>
-                                <td class="text-center">9</td>
-                                <td>Understand and commit to professional ethics and responsibilities and norms of engineering practice.</td>
+                                <td class="text-center">9</td><td><b>Individual and team work: </b>
+                                Function effectively as an individual, and as a member or
+leader in diverse teams, and in multidisciplinary settings.</td>
                             </tr>
                             <tr>
-                                <td class="text-center">10</td>
-                                <td>Understand the impact of engineering solutions in a societal context and demonstrate knowledge of and need for sustainable development.</td>
+                                <td class="text-center">10</td><td><b>Communication: </b>
+                                Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend and
+write effective reports and design documentation, make effective presentations, and give
+and receive clear instructions.</td>
                             </tr>
                             <tr>
-                                <td class="text-center">11</td>
-                                <td>Demonstrate a knowledge and understanding of management and business practices, such as risk and change management, and understand their limitations.</td>
+                                <td class="text-center">11</td><td><b>Project management and finance: </b>
+                                Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a member
+and leader in a team, to manage projects and in multidisciplinary environments.</td>
                             </tr>
                             <tr>
-                                <td class="text-center">12</td>
-                                <td>Recognize the need for, and have the ability to engage in independent and life-long learning.</td>
+                                <td class="text-center">12</td><td><b>Life-long learning: </b>
+                                Recognize the need for, and have the preparation and ability to
+engage in independent and life-long learning in the broadest context of technological
+change</td>
                             </tr>
                         </tbody>
                     </table>
@@ -293,10 +317,13 @@
               <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                 <div class="accordion-body">
                     <ol class="my-list">
-                        <li>To embed sound academic fundamentals among the students to formulate, analyze and solve Mechanical Engineering problems.</li>
+                        <li>To embed sound academic fundamentals among the students to formulate, analyze
+and solve Mechanical Engineering problems.</li>
                         <li>To develop student’s ability to enhance capabilities to design products and processes.</li>
-                        <li>To enhance employability of students to meet employers need at large and prepare them for higher studies.</li>
-                        <li>To create awareness among students about codes of professional practice, social commitment and lifelong learning.</li>
+                        <li>To enhance employability of students to meet employers need at large and prepare
+them for higher studies.</li>
+                        <li>To create awareness among students about codes of professional practice, social
+commitment and life-long learning.</li>
                     </ol>
                 </div>
               </div>
