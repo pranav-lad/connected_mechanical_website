@@ -456,7 +456,17 @@
         </h2>
         <div id="flush-collapseTwo1" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo1" data-bs-parent="#accordionFlushExample1">
           <div class="accordion-body">
-            
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b> Debate Competition (interdepartmental level)</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 01/08/2019</p>
+                    <p class="p-0 m-0"> <b>Event Time:</b> 4:10pm-6:00pm</p>
+                    <p class="p-0 m-0"> <b>Objective: </b> 
+                      <ul>
+                          <li>To generate effective critical thinking into primary issues.</li>
+                          <li>To learn how to compare and discriminate between ideas through active participation and healthy arguments.</li>
+                      </ul>
+                  </p>
+              </div>
           </div>
         </div>
       </div>
