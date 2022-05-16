@@ -208,26 +208,26 @@
                                 <td class="text-center">1</td>
                                 <td><b>Engineering knowledge: </b>Apply the knowledge of mathematics, science, engineering
 fundamentals, and an engineering specialization to the solution of complex engineering
-problems</td>
+problems.</td>
                             </tr>
                             <tr>
                                 <td class="text-center">2</td>
                                 <td><b>Problem analysis: </b>Identify, formulate, review research literature, and analyze complex
 engineering problems reaching substantiated conclusions using first principles of
-mathematics, natural sciences, and engineering sciences</td>
+mathematics, natural sciences, and engineering sciences.</td>
                             </tr>
                             <tr>
                                 <td class="text-center">3</td>
                                 <td><b>Design/development of solutions: </b>Design solutions for complex engineering problems
 and design system components or processes that meet the specified needs with
 appropriate consideration for the public health and safety, and the cultural, societal, and
-environmental considerations. </td>
+environmental considerations.</td>
                             </tr>
                             <tr>
                                 <td class="text-center">4</td>
                                 <td><b>Conduct investigations of complex problems: </b>Use research-based knowledge and
 research methods including design of experiments, analysis and interpretation of data,
-and synthesis of the information to provide valid conclusions..</td>
+and synthesis of the information to provide valid conclusions.</td>
                             </tr>
                             <tr>
                                 <td class="text-center">5</td>
@@ -274,7 +274,7 @@ and leader in a team, to manage projects and in multidisciplinary environments.<
                                 <td class="text-center">12</td><td><b>Life-long learning: </b>
                                 Recognize the need for, and have the preparation and ability to
 engage in independent and life-long learning in the broadest context of technological
-change</td>
+change.</td>
                             </tr>
                         </tbody>
                     </table>
@@ -293,15 +293,21 @@ change</td>
                         <tbody>
                             <tr>
                                 <td class="text-center">PSO1</td>
-                                <td>Conceptualize, design, model, simulate, analyze mechanical systems components and processes by applying the principles of thermal engineering, machine design, Manufacturing and Automation.</td>
+                                <td>Conceptualize, design, model, simulate and analyze mechanical components, systems and
+
+processes by applying the principles of thermal engineering, machine design,
+manufacturing and automation.</td>
                             </tr>
                             <tr>
                                 <td class="text-center">PSO2</td>
-                                <td>Derive solutions to real life mechanical engineering problems in automobile industries and research organizations.</td>
+                                <td>Derive solutions to real life mechanical engineering problems in automobile industries
+and research organizations.</td>
                             </tr>
                             <tr>
                                 <td class="text-center">PSO3</td>
-                                <td>Apply industrial engineering and management principles and consider public health and safety, cultural, societal, and environmental factors to work professionally in the industry or as an entrepreneur. </td>
+                                <td>Apply industrial engineering and management principles and consider public health
+safety and environmental factors, cultural, societal, and to work professionally in the
+industry or as an entrepreneur. </td>
                             </tr>
                         </tbody>
                     </table>
