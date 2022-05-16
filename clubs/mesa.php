@@ -546,6 +546,53 @@
                       <div class="col-sm-6"><img src="img/mesa/Cricket Tournament-2.jpg" class="img-fluid" alt=""></div>
                   </div>
               </div>
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b>Teaching to High School going Village Students.</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 10/01/2020</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b>To make undergraduate well aware about societal responsibilities.</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6"><img src="img/mesa/Teaching to High School going Village Students-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Teaching to High School going Village Students-2.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b>Sketching Workshop</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 25/02/2020 – 26/02/2020</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b>To improve and embrace cognitive skills, creativity and confidence of the students. To improve the imagination skills of the students which will further help them in their academics and day to day life.</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6"><img src="img/mesa/Sketching Workshop-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Sketching Workshop-4.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Sketching Workshop-3.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Sketching Workshop-2.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b>Departmental level quiz competition</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 27/02/2020 - 28/02/2020</p>
+                    <p class="p-0 m-0"><b>No. of Students Benefitted:</b> 200</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b>To test the knowledge of students in the field of thermodynamics and improve the confidence level of the students in the particular field.</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6"><img src="img/mesa/Departmental level quiz competition-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Departmental level quiz competition-2.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Departmental level quiz competition-3.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Departmental level quiz competition-4.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b>Prayojya (Online  Competition)</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 15/04/2020- 20/04/2020</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b>To develop an innovative mindset in students and encourage students to do something productive during the quarantine.</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6"><img src="img/mesa/Prayojya-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Prayojya-2.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Prayojya-3.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Prayojya-4.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
           </div>
         </div>
       </div>
