@@ -803,89 +803,142 @@ among students.   </dd>
         </h2>
         <div id="flush-collapseTwo1" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo1" data-bs-parent="#accordionFlushExample1">
           <div class="accordion-body">
-          <hr>
-          <!-- -------------------------------- event ---------------------------------- -->
-            
-          <dl class="row"> <dt class="col-sm-3 col-4">Event Name: </dt>
-          <dd class="col-sm-9 col-8"><b> Debate Competition (interdepartmental level)  </b>     </dd> 
-          
-          <dt class="col-sm-3 col-4">Objective:</dt>
-          <dd class="col-sm-9 col-8">   <ul>
-            <li>To generate effective critical thinking into primary issues.</li>
-            <li>To learn how to compare and discriminate between ideas through active
-participation and healthy arguments.</li>
-          </ul>    </dd> 
-          
-          <dt class="col-sm-3 col-4">Event Time: </dt>
-          <dd class="col-sm-9 col-8"> 4:10pm-6:00pm    </dd> 
-          
-          <dt class="col-sm-3 col-4">Event Date: </dt>
-          <dd class="col-sm-9 col-8">
-          <p>  01/08/2019   </p>
-          </dd> 
-          <br><br><br>
-          <dt class="col-sm-3 col-4">Photos : </dt>
-          <dd>
-          <img class="col-sm-9 col-8" src="img/event images/11.jpg" alt="" width = "">
-          </dd>
-          </dl>
-          
-          <!-- -------------------------------- event ---------------------------------- -->
-          <hr>
-          <!-- -------------------------------- event ---------------------------------- -->
-            
-          <dl class="row"> <dt class="col-sm-3 col-4">Event Name: </dt>
-          <dd class="col-sm-9 col-8"><b> Dance Workshop  </b>     </dd> 
-          
-          <dt class="col-sm-3 col-4">Objective:</dt>
-          <dd class="col-sm-9 col-8">   To provide the students of our college the platform to showcase their talent in
-dancing, learn different dance styles and to take students mind off of everyday
-stress.    </dd> 
-          
-          <dt class="col-sm-3 col-4">Event Time: </dt>
-          <dd class="col-sm-9 col-8">  4:10pm-6:00pm   </dd> 
-          
-          <dt class="col-sm-3 col-4">Event Date: </dt>
-          <dd class="col-sm-9 col-8">
-          <p>:07/08/2019 – 10/08/2019    </p>
-          </dd> 
-          
-          <dt class="col-sm-3 col-4">List of Dance Styles taught in the workshop: </dt>
-          <dd class="col-sm-9 col-8">
-          <p> Hip Hop, Bollywood, Semi-
-classical   </p>
-          </dd>  <br><br><br>
-          <dt class="col-sm-3 col-4">Photos : </dt>
-          <dd>
-          <img class="col-sm-9 col-8" src="img/event images/12.jpg" alt="" width = "">
-          <img class="col-sm-9 col-8" src="img/event images/12.1.jpg" alt="" width = "">
-          </dd>
-          </dl>
-          
-          <!-- -------------------------------- event ---------------------------------- -->
-          <hr>
-          
-          </div>
-        </div>
-      </div>
-      <div class="accordion-item bg-light">
-        <h2 class="accordion-header" id="flush-headingThree1">
-          <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree1" aria-expanded="false" aria-controls="flush-collapseThree1">
-              <h6>>>> 2018-19</h6>
-          </button>
-        </h2>
-        <div id="flush-collapseThree1" class="accordion-collapse collapse" aria-labelledby="flush-headingThree1" data-bs-parent="#accordionFlushExample1">
-          <div class="accordion-body">
-            
-          </div>
-        </div>
-      </div>
-          
-          
-          
-          
-          <!-- -------------------------------------- add events here ---------------------------------------------------- -->
-          
+          <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b> Debate Competition (interdepartmental level)</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 01/08/2019</p>
+                    <p class="p-0 m-0"> <b>Event Time:</b> 4:10pm-6:00pm</p>
+                    <p class="p-0 m-0"> <b>Objective: </b> 
+                      <ul>
+                          <li>To generate effective critical thinking into primary issues.</li>
+                          <li>To learn how to compare and discriminate between ideas through active participation and healthy arguments.</li>
+                      </ul>
+                  </p>
+                  <div class="row">
+                      <div class="col-sm-6"><img src="img/mesa/Debate Competition-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Debate Competition-3.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Debate Competition-2.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Debate Competition-4.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+                <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b> Dance Workshop</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 07/08/2019 – 10/08/2019</p>
+                    <p class="p-0 m-0"> <b>Event Time:</b> 4:10pm-6:00pm</p>
+                    <p class="p-0 m-0"> <b>Objective: </b> To provide the students of our college the platform to showcase their talent in dancing,  learn different dance styles and to take students mind off of everyday stress.</p>
+                    <p class="p-0 m-0 mb-2"> <b>List of Dance Styles taught in the workshop: </b> Hop, Bollywood, Semi-classical</p>
+                  <div class="row ">
+                      <div class="col-sm-6"><img src="img/mesa/Dance Workshop-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Dance Workshop-2.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b> Indoor Sports Championship</p>
+                    <p class="p-0 m-0"><b>Indoor Games:</b> Chess, Carrom, Table Tennis</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 27/08/2019 - 28/08/2019</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b> To develop patience and thoughtfulness. To learn and increase cognitive skills. It also helps in improving aptitude in recognizing patterns and instill a sense of self- confidence and self-worth. </p>
+                  <div class="row ">
+                      <div class="col-sm-6">
+                        <img src="img/mesa/Indoor Sports Championship-6.jpg" class="img-fluid" alt="">
+                        <img src="img/mesa/Indoor Sports Championship-5.jpg" class="img-fluid" alt="">
+                      </div>
+                      <div class="col-sm-6">
+                        <img src="img/mesa/Indoor Sports Championship-2.png" class="img-fluid" alt="">
+                        <img src="img/mesa/Indoor Sports Championship-4.jpg" class="img-fluid" alt="">
+                      </div>
+                      <div class="col-sm-6"><img src="img/mesa/Indoor Sports Championship-3.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Indoor Sports Championship-1.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b> 5 Days STTP on Geometric Dimensioning and Tolerance (GDnT)</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 24th August- 1st September 2019</p>
+                    <p class="p-0 m-0"><b>Event Time</b> 9:00 am-4:00 pm</p>
+                    <p class="p-0 m-0"><b>Resource Person:</b> Mr. Anand Bhise who is an industrial expert from M/s. MechTol Solutions, Pune</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b>To provide mechanical students the opportunity to get hands on practice of real life drawings and industrial cases, this will enrich their skills for core industries. The students will get to learn about GDnT in detail from an industrial expert.</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6"><img src="img/mesa/5 Days STTP on Geometric Dimensioning-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/5 Days STTP on Geometric Dimensioning-2.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/5 Days STTP on Geometric Dimensioning-3.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b> Engineer’s Day</p>
+                    <p class="p-0 m-0 mb-2"> <b>Event Date:</b> 18/09/2019</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                        <img src="img/mesa/Engineer’s Day-1.jpg" class="img-fluid" alt="">
+                        <p class="p-0 m-0 mt-2"><b>Event 1:</b> CAD Modelling Competition</p>
+                        <p class="p-0 m-0"><b>Objective:</b> To provide platform to mechanical students to showcase their talent in the designing of mechanical components using CATIA software and improve their skill and confidence level  in the said field.  </p>
+                      </div>
+                      <div class="col-sm-6">
+                        <img src="img/mesa/Engineer’s Day-2.jpg" class="img-fluid" alt="">
+                        <p class="p-0 m-0 mt-2"><b>Event 1:</b> Guest Lecture on Space Explorations by ISRO.</p>
+                        <p class="p-0 m-0"><b>Objective:</b> To make the students of our institute aware of the various efforts undertaken by ISRO and encourage them to take interest in the said field.  </p>
+                      </div>
+                  </div>
+              </div>
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b>Cricket Tournament</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 28/12/2019 - 29/12/2019</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b>To provide mechanical students the opportunity to showcase their skills in cricket and develop a sense of team spirit in them. To take their mind off of everyday stress.</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6"><img src="img/mesa/Cricket Tournament-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Cricket Tournament-2.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b>Teaching to High School going Village Students.</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 10/01/2020</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b>To make undergraduate well aware about societal responsibilities.</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6"><img src="img/mesa/Teaching to High School going Village Students-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Teaching to High School going Village Students-2.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b>Sketching Workshop</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 25/02/2020 – 26/02/2020</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b>To improve and embrace cognitive skills, creativity and confidence of the students. To improve the imagination skills of the students which will further help them in their academics and day to day life.</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6"><img src="img/mesa/Sketching Workshop-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Sketching Workshop-4.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Sketching Workshop-3.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Sketching Workshop-2.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b>Departmental level quiz competition</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 27/02/2020 - 28/02/2020</p>
+                    <p class="p-0 m-0"><b>No. of Students Benefitted:</b> 200</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b>To test the knowledge of students in the field of thermodynamics and improve the confidence level of the students in the particular field.</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6"><img src="img/mesa/Departmental level quiz competition-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Departmental level quiz competition-2.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Departmental level quiz competition-3.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Departmental level quiz competition-4.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b>Prayojya (Online  Competition)</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 15/04/2020- 20/04/2020</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b>To develop an innovative mindset in students and encourage students to do something productive during the quarantine.</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6"><img src="img/mesa/Prayojya-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Prayojya-2.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Prayojya-3.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Prayojya-4.jpg" class="img-fluid" alt=""></div>
+                  </div>
           
           
           </div>
