@@ -458,7 +458,7 @@
                                                         thermoelectric power generation".</b></small></p>
                                         </div>
                                         <div class="m-2 bg-white border rounded">
-                                            <img src="vender/files/notices/army_student.png" style = "max-width: 300px"; >
+                                            <img src="vender/files/notices/army_student.png" >
                                             <p class="p-2 mb-0 font-title text-data"><small>One of our Mechanical
                                                     Engineering 2019 passout student <br><b>Mr. Jaydeep Mahajan</b>
                                                     Passed UPSC CDS exam Joined <b> Indian <br> Military Academy,
@@ -467,7 +467,7 @@
                                             </p>
                                         </div>
                                 
-                                <div class="m-2 bg-white border rounded">
+                                <div class="m-2 bg-white border rounded" style = "max-width:370px">
                                             <img src="vender/files/notices/new_img_ach.jpg">
                                             <p class="p-2 mb-0 font-title text-data"><small>Prof. Gauri Phadatare, Dr. P. A. Deshmukh & Dr. U. G. Potdar received <br>a grand of Rs. 12,14,406 from AICTE Quality Improvement Schemes (AQIS)<br> for the title "Utilization of Green-clean energy source for the development of a novel hybrid line and point <br> focused solar collector system for biomedical steam sterilization application."</b></small>
                                             </p>
