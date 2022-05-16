@@ -466,6 +466,12 @@
                           <li>To learn how to compare and discriminate between ideas through active participation and healthy arguments.</li>
                       </ul>
                   </p>
+                  <div class="row">
+                      <div class="col-sm-6"><img src="img/mesa/Debate Competition-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Debate Competition-3.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Debate Competition-2.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Debate Competition-4.jpg" class="img-fluid" alt=""></div>
+                  </div>
               </div>
           </div>
         </div>
