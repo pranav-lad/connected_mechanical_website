@@ -473,6 +473,79 @@
                       <div class="col-sm-6"><img src="img/mesa/Debate Competition-4.jpg" class="img-fluid" alt=""></div>
                   </div>
               </div>
+                <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b> Dance Workshop</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 07/08/2019 – 10/08/2019</p>
+                    <p class="p-0 m-0"> <b>Event Time:</b> 4:10pm-6:00pm</p>
+                    <p class="p-0 m-0"> <b>Objective: </b> To provide the students of our college the platform to showcase their talent in dancing,  learn different dance styles and to take students mind off of everyday stress.</p>
+                    <p class="p-0 m-0 mb-2"> <b>List of Dance Styles taught in the workshop: </b> Hop, Bollywood, Semi-classical</p>
+                  <div class="row ">
+                      <div class="col-sm-6"><img src="img/mesa/Dance Workshop-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Dance Workshop-2.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b> Indoor Sports Championship</p>
+                    <p class="p-0 m-0"><b>Indoor Games:</b> Chess, Carrom, Table Tennis</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 27/08/2019 - 28/08/2019</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b> To develop patience and thoughtfulness. To learn and increase cognitive skills. It also helps in improving aptitude in recognizing patterns and instill a sense of self- confidence and self-worth. </p>
+                  <div class="row ">
+                      <div class="col-sm-6">
+                        <img src="img/mesa/Indoor Sports Championship-6.jpg" class="img-fluid" alt="">
+                        <img src="img/mesa/Indoor Sports Championship-5.jpg" class="img-fluid" alt="">
+                      </div>
+                      <div class="col-sm-6">
+                        <img src="img/mesa/Indoor Sports Championship-2.png" class="img-fluid" alt="">
+                        <img src="img/mesa/Indoor Sports Championship-4.jpg" class="img-fluid" alt="">
+                      </div>
+                      <div class="col-sm-6"><img src="img/mesa/Indoor Sports Championship-3.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Indoor Sports Championship-1.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b> 5 Days STTP on Geometric Dimensioning and Tolerance (GDnT)</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 24th August- 1st September 2019</p>
+                    <p class="p-0 m-0"><b>Event Time</b> 9:00 am-4:00 pm</p>
+                    <p class="p-0 m-0"><b>Resource Person:</b> Mr. Anand Bhise who is an industrial expert from M/s. MechTol Solutions, Pune</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b>To provide mechanical students the opportunity to get hands on practice of real life drawings and industrial cases, this will enrich their skills for core industries. The students will get to learn about GDnT in detail from an industrial expert.</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6"><img src="img/mesa/5 Days STTP on Geometric Dimensioning-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/5 Days STTP on Geometric Dimensioning-2.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/5 Days STTP on Geometric Dimensioning-3.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
+
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b> Engineer’s Day</p>
+                    <p class="p-0 m-0 mb-2"> <b>Event Date:</b> 18/09/2019</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6">
+                        <img src="img/mesa/Engineer’s Day-1.jpg" class="img-fluid" alt="">
+                        <p class="p-0 m-0 mt-2"><b>Event 1:</b> CAD Modelling Competition</p>
+                        <p class="p-0 m-0"><b>Objective:</b> To provide platform to mechanical students to showcase their talent in the designing of mechanical components using CATIA software and improve their skill and confidence level  in the said field.  </p>
+                      </div>
+                      <div class="col-sm-6">
+                        <img src="img/mesa/Engineer’s Day-2.jpg" class="img-fluid" alt="">
+                        <p class="p-0 m-0 mt-2"><b>Event 1:</b> Guest Lecture on Space Explorations by ISRO.</p>
+                        <p class="p-0 m-0"><b>Objective:</b> To make the students of our institute aware of the various efforts undertaken by ISRO and encourage them to take interest in the said field.  </p>
+                      </div>
+                  </div>
+              </div>
+              <hr>
+              <div>
+                    <p class="p-0 m-0"> <b>Event Name:</b>Cricket Tournament</p>
+                    <p class="p-0 m-0"> <b>Event Date:</b> 28/12/2019 - 29/12/2019</p>
+                    <p class="p-0 m-0 mb-2"> <b>Objective: </b>To provide mechanical students the opportunity to showcase their skills in cricket and develop a sense of team spirit in them. To take their mind off of everyday stress.</p>
+                  <div class="row justify-content-center">
+                      <div class="col-sm-6"><img src="img/mesa/Cricket Tournament-1.jpg" class="img-fluid" alt=""></div>
+                      <div class="col-sm-6"><img src="img/mesa/Cricket Tournament-2.jpg" class="img-fluid" alt=""></div>
+                  </div>
+              </div>
           </div>
         </div>
       </div>
