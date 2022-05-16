@@ -458,7 +458,7 @@
                                                         thermoelectric power generation".</b></small></p>
                                         </div>
                                         <div class="m-2 bg-white border rounded">
-                                            <img src="vender/files/notices/army_student.png">
+                                            <img src="vender/files/notices/army_student.png" style = "max-width: 300px"; >
                                             <p class="p-2 mb-0 font-title text-data"><small>One of our Mechanical
                                                     Engineering 2019 passout student <br><b>Mr. Jaydeep Mahajan</b>
                                                     Passed UPSC CDS exam Joined <b> Indian <br> Military Academy,
