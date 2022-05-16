@@ -820,13 +820,14 @@
                   </div>
                 </div>
               </div>
+
               <div class="accordion-item bg-light">
-                <h2 class="accordion-header" id="flush-headingTwo1">
-                  <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo1" aria-expanded="false" aria-controls="flush-collapseTwo1">
+                <h2 class="accordion-header" id="flush-headingkl1">
+                  <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsekl1" aria-expanded="false" aria-controls="flush-collapsekl1">
                     <h6>>>> 2019-20</h6>
                   </button>
                 </h2>
-                <div id="flush-collapseTwo1" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo1" data-bs-parent="#accordionFlushExample1">
+                <div id="flush-collapsekl1" class="accordion-collapse collapse" aria-labelledby="flush-headingkl1" data-bs-parent="#accordionFlushExample1">
                   <div class="accordion-body">
                     <div>
                       <p class="p-0 m-0"> <b>Event Name:</b> Debate Competition (interdepartmental level)</p>
@@ -967,94 +968,112 @@
                     </div>
                   </div>
                 </div>
-                <div class="accordion-item bg-light">
-        <h2 class="accordion-header" id="flush-headingThree1">
-          <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree1" aria-expanded="false" aria-controls="flush-collapseThree1">
-              <h6>>>> 2018-19</h6>
-          </button>
-        </h2>
-        <div id="flush-collapseThree1" class="accordion-collapse collapse" aria-labelledby="flush-headingThree1" data-bs-parent="#accordionFlushExample1">
-          <div class="accordion-body">
-              <div>
-                    <p class="p-0 m-0"> <b>Event Name:</b> Mechathlon2k19</p>
-                    <p class="p-0 m-0"> <b>Event Date:</b> 18/01/2019</p>
-                    <p class="p-0 m-0"> <b>Event Time:</b> 10:00am-6:00pm</p>
-                    <p class="p-0 m-0"><b>No. of participants:</b> 620+</p>
-                    <p class="p-0 m-0"><b>Chief Guest:</b> Mr. Pravin Kolhe</p>
-                    <p class="p-0 m-0"><b>Type of Event:</b> Technical (Material Balancing, CAD war, Technical Quiz), Non-technical (blind bot, PUBG, Photography)</p>
-                    <p class="p-0 m-0 mb-2"> <b>Objective:</b> To provide platform to all PCCoE students to showcase their talents in various technical and nontechnical events.</p>
-                    <p class="mt-3"><b>Technical Events</b></p>
-                  <div class="row">
-                      <div class="col-sm-6"><img src="img/mesa/Mechathlon2k19-3.jpg" class="img-fluid" alt=""><p class="text-center p-2"><b>CAD War</b></p></div>
-                      <div class="col-sm-6"><img src="img/mesa/Mechathlon2k19-4.png" class="img-fluid" alt=""><p class="text-center p-2"><b></b></p></div>
-                      <div class="col-sm-6"><img src="img/mesa/Mechathlon2k19-1.jpg" class="img-fluid" alt=""><p class="text-center p-2"><b>Material Balancing</b></p></div>
-                      <div class="col-sm-6"><img src="img/mesa/Mechathlon2k19-2.jpg" class="img-fluid" alt=""><p class="text-center p-2"><b>Technical Quiz</b></p></div>
-                  </div>
-
-                  <p class="mt-3"><b>Non Technical Events</b></p>
-                  <div class="row justify-content-center">
-                      <div class="col-sm-4"><img src="img/mesa/Mechathlon2k19-5.png" class="img-fluid" alt=""><p class="text-center p-2"><b>Blind-bot</b></p></div>
-                      <div class="col-sm-4"><img src="img/mesa/Mechathlon2k19-8.png" class="img-fluid" alt=""><p class="text-center p-2"><b>Guest Lecture</b></p></div>
-                      <div class="col-sm-4"><img src="img/mesa/Mechathlon2k19-7.jpg" class="img-fluid" alt=""><p class="text-center p-2"><b>Photography</b></p></div>
-                      <div class="col-sm-6"><img src="img/mesa/Mechathlon2k19-6.jpg" class="img-fluid" alt=""><p class="text-center p-2"><b>PUBG</b></p></div>
-                  </div>
-              </div>
-              <hr>
-              <div>
-                    <p class="p-0 m-0"> <b>Event Name:</b>BE 2019 Batch Farwell</p>
-                    <p class="p-0 m-0"> <b>Event Date:</b> 27/04/2019</p>
-                    <p class="p-0 m-0 mb-2"> <b>No. of participants: </b> 220</p>
-                  <div class="row justify-content-center">
-                      <div class="col-sm-6"><img src="img/mesa/BE 2019 Batch Farwell-1.jpg" class="img-fluid" alt=""></div>
-                      <div class="col-sm-6"><img src="img/mesa/BE 2019 Batch Farwell-2.jpg" class="img-fluid" alt=""></div>
-                      <div class="col-sm-6"><img src="img/mesa/BE 2019 Batch Farwell-3.jpg" class="img-fluid" alt=""></div>
-                      <div class="col-sm-6"><img src="img/mesa/BE 2019 Batch Farwell-4.jpg" class="img-fluid" alt=""></div>
-                  </div>
               </div>
 
-              <hr>
-              <div>
-                    <p class="p-0 m-0"> <b>Event Name:</b>Hands on training workshop on CATIA (free of cost) 1.	3D Modeling, 2.	Assembly Design, 3.	Generative Shape Design</p>
-                    <p class="p-0 m-0"> <b>Objectives: </b> Prepare students for 1.	SAE teams, 2.	National & International Level Events, 3.	CAMD subject exam</p>
-                    <p class="p-0 m-0"> <b>Event Date:</b> 28/7/2018</p>
-                    <p class="p-0 m-0 mb-2"> <b>No. of participants: </b> 20</p>
-                  <div class="row justify-content-center">
-                      <div class="col-sm-6"><img src="img/mesa/Hands on training workshop on CATIA -4.jpg" class="img-fluid" alt=""></div>
-                      <div class="col-sm-6"><img src="img/mesa/Hands on training workshop on CATIA -2.jpg" class="img-fluid" alt=""></div>
-                      <div class="col-sm-6"><img src="img/mesa/Hands on training workshop on CATIA -3.jpg" class="img-fluid" alt=""></div>
-                      <div class="col-sm-6"><img src="img/mesa/Hands on training workshop on CATIA -1.jpg" class="img-fluid" alt=""></div>
-                  </div>
-              </div>
+              <div class="accordion-item bg-light">
+                <h2 class="accordion-header" id="flush-headingThree1">
+                  <button class="accordion-button collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree1" aria-expanded="false" aria-controls="flush-collapseThree1">
+                    <h6>>>> 2018-19</h6>
+                  </button>
+                </h2>
+                <div id="flush-collapseThree1" class="accordion-collapse collapse" aria-labelledby="flush-headingThree1" data-bs-parent="#accordionFlushExample1">
+                  <div class="accordion-body">
+                    <div>
+                      <p class="p-0 m-0"> <b>Event Name:</b> Mechathlon2k19</p>
+                      <p class="p-0 m-0"> <b>Event Date:</b> 18/01/2019</p>
+                      <p class="p-0 m-0"> <b>Event Time:</b> 10:00am-6:00pm</p>
+                      <p class="p-0 m-0"><b>No. of participants:</b> 620+</p>
+                      <p class="p-0 m-0"><b>Chief Guest:</b> Mr. Pravin Kolhe</p>
+                      <p class="p-0 m-0"><b>Type of Event:</b> Technical (Material Balancing, CAD war, Technical Quiz), Non-technical (blind bot, PUBG, Photography)</p>
+                      <p class="p-0 m-0 mb-2"> <b>Objective:</b> To provide platform to all PCCoE students to showcase their talents in various technical and nontechnical events.</p>
+                      <p class="mt-3"><b>Technical Events</b></p>
+                      <div class="row">
+                        <div class="col-sm-6"><img src="img/mesa/Mechathlon2k19-3.jpg" class="img-fluid" alt="">
+                          <p class="text-center p-2"><b>CAD War</b></p>
+                        </div>
+                        <div class="col-sm-6"><img src="img/mesa/Mechathlon2k19-4.png" class="img-fluid" alt="">
+                          <p class="text-center p-2"><b></b></p>
+                        </div>
+                        <div class="col-sm-6"><img src="img/mesa/Mechathlon2k19-1.jpg" class="img-fluid" alt="">
+                          <p class="text-center p-2"><b>Material Balancing</b></p>
+                        </div>
+                        <div class="col-sm-6"><img src="img/mesa/Mechathlon2k19-2.jpg" class="img-fluid" alt="">
+                          <p class="text-center p-2"><b>Technical Quiz</b></p>
+                        </div>
+                      </div>
 
-              <hr>
-              <div>
-                    <p class="p-0 m-0"> <b>Event Name:</b>Cloud Literacy Day</p>
-                    <p class="p-0 m-0"><b>Objectives: </b>To enable students to learn cloud technology skill.</p>
-                    <p class="p-0 m-0"> <b>Event Date:</b> 03/10/2018</p>
-                    <p class="p-0 m-0"><b>Event Time:</b> 09:00 am-05:00 pm</p>
-                    <p class="p-0 m-0 mb-2"> <b>No. of Participants: </b>  50 (registered)</p>
-                  <div class="row justify-content-center">
-                      <div class="col-sm-6"><img src="img/mesa/Cloud Literacy Day-1.jpg" class="img-fluid" alt=""></div>
-                      <div class="col-sm-6"><img src="img/mesa/Cloud Literacy Day-2.jpg" class="img-fluid" alt=""></div>
+                      <p class="mt-3"><b>Non Technical Events</b></p>
+                      <div class="row justify-content-center">
+                        <div class="col-sm-4"><img src="img/mesa/Mechathlon2k19-5.png" class="img-fluid" alt="">
+                          <p class="text-center p-2"><b>Blind-bot</b></p>
+                        </div>
+                        <div class="col-sm-4"><img src="img/mesa/Mechathlon2k19-8.png" class="img-fluid" alt="">
+                          <p class="text-center p-2"><b>Guest Lecture</b></p>
+                        </div>
+                        <div class="col-sm-4"><img src="img/mesa/Mechathlon2k19-7.jpg" class="img-fluid" alt="">
+                          <p class="text-center p-2"><b>Photography</b></p>
+                        </div>
+                        <div class="col-sm-6"><img src="img/mesa/Mechathlon2k19-6.jpg" class="img-fluid" alt="">
+                          <p class="text-center p-2"><b>PUBG</b></p>
+                        </div>
+                      </div>
+                    </div>
+                    <hr>
+                    <div>
+                      <p class="p-0 m-0"> <b>Event Name:</b>BE 2019 Batch Farwell</p>
+                      <p class="p-0 m-0"> <b>Event Date:</b> 27/04/2019</p>
+                      <p class="p-0 m-0 mb-2"> <b>No. of participants: </b> 220</p>
+                      <div class="row justify-content-center">
+                        <div class="col-sm-6"><img src="img/mesa/BE 2019 Batch Farwell-1.jpg" class="img-fluid" alt=""></div>
+                        <div class="col-sm-6"><img src="img/mesa/BE 2019 Batch Farwell-2.jpg" class="img-fluid" alt=""></div>
+                        <div class="col-sm-6"><img src="img/mesa/BE 2019 Batch Farwell-3.jpg" class="img-fluid" alt=""></div>
+                        <div class="col-sm-6"><img src="img/mesa/BE 2019 Batch Farwell-4.jpg" class="img-fluid" alt=""></div>
+                      </div>
+                    </div>
+
+                    <hr>
+                    <div>
+                      <p class="p-0 m-0"> <b>Event Name:</b>Hands on training workshop on CATIA (free of cost) 1. 3D Modeling, 2. Assembly Design, 3. Generative Shape Design</p>
+                      <p class="p-0 m-0"> <b>Objectives: </b> Prepare students for 1. SAE teams, 2. National & International Level Events, 3. CAMD subject exam</p>
+                      <p class="p-0 m-0"> <b>Event Date:</b> 28/7/2018</p>
+                      <p class="p-0 m-0 mb-2"> <b>No. of participants: </b> 20</p>
+                      <div class="row justify-content-center">
+                        <div class="col-sm-6"><img src="img/mesa/Hands on training workshop on CATIA -4.jpg" class="img-fluid" alt=""></div>
+                        <div class="col-sm-6"><img src="img/mesa/Hands on training workshop on CATIA -2.jpg" class="img-fluid" alt=""></div>
+                        <div class="col-sm-6"><img src="img/mesa/Hands on training workshop on CATIA -3.jpg" class="img-fluid" alt=""></div>
+                        <div class="col-sm-6"><img src="img/mesa/Hands on training workshop on CATIA -1.jpg" class="img-fluid" alt=""></div>
+                      </div>
+                    </div>
+
+                    <hr>
+                    <div>
+                      <p class="p-0 m-0"> <b>Event Name:</b>Cloud Literacy Day</p>
+                      <p class="p-0 m-0"><b>Objectives: </b>To enable students to learn cloud technology skill.</p>
+                      <p class="p-0 m-0"> <b>Event Date:</b> 03/10/2018</p>
+                      <p class="p-0 m-0"><b>Event Time:</b> 09:00 am-05:00 pm</p>
+                      <p class="p-0 m-0 mb-2"> <b>No. of Participants: </b> 50 (registered)</p>
+                      <div class="row justify-content-center">
+                        <div class="col-sm-6"><img src="img/mesa/Cloud Literacy Day-1.jpg" class="img-fluid" alt=""></div>
+                        <div class="col-sm-6"><img src="img/mesa/Cloud Literacy Day-2.jpg" class="img-fluid" alt=""></div>
+                      </div>
+                    </div>
+                    <hr>
+                    <div>
+                      <p class="p-0 m-0"> <b>Event Name:</b>Cloud Literacy Day</p>
+                      <p class="p-0 m-0"><b>Objectives: </b>Provide platform to the students to showcase their talent in sports</p>
+                      <p class="p-0 m-0 mb"> <b>Event Date:</b> September 2018</p>
+                      <div class="row justify-content-center">
+                        <div class="col-sm-6"><img src="img/mesa/Cloud Literacy Day 2-1.jpg" class="img-fluid" alt=""></div>
+                        <div class="col-sm-6"><img src="img/mesa/Cloud Literacy Day 2-2.jpg" class="img-fluid" alt=""></div>
+                        <div class="col-sm-6"><img src="img/mesa/Cloud Literacy Day 2-3.jpg" class="img-fluid" alt=""></div>
+                        <div class="col-sm-6"><img src="img/mesa/Cloud Literacy Day 2-4.jpg" class="img-fluid" alt=""></div>
+                      </div>
+                    </div>
                   </div>
-              </div>
-              <hr>
-              <div>
-                    <p class="p-0 m-0"> <b>Event Name:</b>Cloud Literacy Day</p>
-                    <p class="p-0 m-0"><b>Objectives: </b>Provide platform to the students to showcase their talent in sports</p>
-                    <p class="p-0 m-0 mb"> <b>Event Date:</b> September 2018</p>
-                  <div class="row justify-content-center">
-                      <div class="col-sm-6"><img src="img/mesa/Cloud Literacy Day 2-1.jpg" class="img-fluid" alt=""></div>
-                      <div class="col-sm-6"><img src="img/mesa/Cloud Literacy Day 2-2.jpg" class="img-fluid" alt=""></div>
-                      <div class="col-sm-6"><img src="img/mesa/Cloud Literacy Day 2-3.jpg" class="img-fluid" alt=""></div>
-                      <div class="col-sm-6"><img src="img/mesa/Cloud Literacy Day 2-4.jpg" class="img-fluid" alt=""></div>
-                  </div>
-              </div>
-          </div>
-        </div>
-      </div>
+                </div>
               </div>
             </div>
+          </div>
   </section>
   <!-- start footer -->
   <footer class="container-fluid">
