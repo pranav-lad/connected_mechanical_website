@@ -348,7 +348,7 @@
                             <h4>Mr. A. A. Panchwadkar </h4>
                             <div>
                                 <dl class="row"> <dt class="col-sm-3 col-4">Designation</dt>
-                                    <dd class="col-sm-9 col-8">Associate Professor, M. Tech. Coordinator (Design) </dd> <dt class="col-sm-3 col-4">Qualification</dt>
+                                    <dd class="col-sm-9 col-8">Associate Professor </dd> <dt class="col-sm-3 col-4">Qualification</dt>
                                     <dd class="col-sm-9 col-8"> M.E. (Design), B.E. (Mechanical Engineering) </dd> <dt class="col-sm-3 col-4">Experience</dt>
                                     <dd class="col-sm-9 col-8"> 24+ Years</dd> <dt class="col-sm-3 col-4">Area of interest</dt>
                                     <dd class="col-sm-9 col-8">
