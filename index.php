@@ -364,14 +364,6 @@
                         <!-- </marquee> -->
                     </ul>
                 </div>
-                <div class="py-3 d-flex justify-content-center">
-                    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-                    <div class="elfsight-app-51b414f7-fac4-469e-813a-d0c87704ebca"></div>
-
-                    <!-- <div class="col-4">
-                        <button type="button" class="btn btn-primary btn">Alumni Feedback</button>
-                    </div> -->
-                </div>
 
             </div>
 
@@ -416,12 +408,134 @@
                             <div class="row text-center justify-content-center">
                                 <marquee height="420px;" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
                                     <div class="d-flex justify-content-around">
-                                        <div class="m-2 bg-white border rounded">
+                                        <!-- <div class="m-2 bg-white border rounded">
                                             <img src="vender/files/notices/blank.jpg">
                                             <p class="p-2 mb-0 font-title text-data">
                                             </p>
-                                        </div>
-                                        <div class="m-2 bg-white border rounded">
+                                        </div> -->
+                                        <span class="m-2 bg-light">
+                                            <img src="vender/files/notices/blank1.png">
+                                            <p class="p-2 mb-0 font-title text-data bg-light">
+                                            </p>
+                                        </span>
+                                        <span class="m-2 bg-light">
+                                            <img src="vender/files/notices/blank1.png">
+                                            <p class="p-2 mb-0 font-title text-data bg-light">
+                                            </p>
+                                        </span>
+                                        <span class="m-2 bg-light">
+                                            <img src="vender/files/notices/blank1.png">
+                                            <p class="p-2 mb-0 font-title text-data bg-light">
+                                            </p>
+                                        </span>
+                                        <span class="m-2 bg-light">
+                                            <img src="vender/files/notices/blank1.png">
+                                            <p class="p-2 mb-0 font-title text-data bg-light">
+                                            </p>
+                                        </span>
+                                        <span class="m-2 bg-light">
+                                            <img src="vender/files/notices/blank1.png">
+                                            <p class="p-2 mb-0 font-title text-data bg-light">
+                                            </p>
+                                        </span>
+                                        <span class="m-2 bg-light">
+                                            <img src="vender/files/notices/blank1.png">
+                                            <p class="p-2 mb-0 font-title text-data bg-light">
+                                            </p>
+                                        </span>
+                                        <span class="m-2 bg-white border rounded">
+                                            <img src="vender/files/notices/Picture1.png">
+                                            <p class="p-2 pt-4 mb-0 font-title text-data text-wrap"><small><b>Team Solarium</b> Mechanical Engineering
+                                                    of PCCOE Pune have managed to achieve an overall First Rank
+                                                    in <b>"Saur Urja Vehicle Challenge 5.0"</b></small>
+                                            </p>
+                                        </span>
+                                        <span class="m-2 bg-white border rounded">
+                                            <img src="vender/files/notices/img_13.png">
+                                            <p class="p-2 pt-3 mb-0 font-title text-data text-wrap"><small><b>Prof. Gauri Phadtare, Dr. P. A. Deshmukh </b>
+                                                    & <b>Dr. U. G. Potdar</b> received a grand of Rs. 12,14,406 from AICTE Quality Improvement Schemes
+                                                    (AQIS) for the title "Utilization of Green-clean energy source for the development of a novel
+                                                    hybrid line and point focused solar collector system for biomedical steam sterilization application."</small>
+                                            </p>
+                                        </span>
+                                        <span class="m-2 bg-white border rounded">
+                                            <img src="vender/files/notices/tkr_award2resize.jpeg">
+                                            <p class="p-2 mb-0 font-title text-data text-wrap"><small><b>Team Kratos Racing</b> (TKR) electric
+                                                    of PCCoE Pune secured <b>Overall First Rank</b> in Formula Bharat electric 2022
+                                                    competition held at Kari Motorsports Coimbatore.</small>
+                                            </p>
+                                        </span>
+                                        <span class="m-2 bg-white border rounded">
+                                            <img src="vender/files/notices/team arnima.png">
+                                            <p class="p-2 mb-0 font-title text-data text-wrap"><small>Final year <b> Mechanical Engineeing</b> students <b>Pratik Kuwar, Rajesh Tambe, Vaibhav Bhosale and Rohan Lokhande</b> National winner of <b>Solar Decathlon India 2022</b>.</small>
+                                            </p>
+                                        </span>
+                                        <span class="m-2 bg-white border rounded">
+                                            <img src="vender/files/notices/Pranav_Mulay.jpeg">
+                                            <p class="p-2 mb-0 font-title text-data"><small>One of our Mechanical
+                                                    Engineering 2019 passout <br> student <b>Mr. Pranav Mulay</b> joined
+                                                    <b>Tesla</b> as a <br><b>New Product Introduction (NPI) Engineer
+                                                    </b>intern at the <br>Megafactory in Lathrop, California.</small>
+                                            </p>
+                                        </span>
+                                        <span class="m-2 bg-white border rounded">
+                                            <img src="vender/files/notices/Karan_Hingmire.jpeg">
+                                            <p class="p-2 mb-0 font-title text-data"><small>One of our Mechanical
+                                                    Engineering 2017 passout <br>student <b>Mr. Karan Hingmire</b> joined <b>Tesla</b> as
+                                                    a <br><b>Global Supply Management</b> - Intern with the <br>Seating team in
+                                                    Fremont, California</small>
+                                            </p>
+                                        </span>
+                                        <span class="m-2 bg-white border rounded">
+                                            <img src="vender/files/notices/recent_achivement.jpg">
+                                            <p class="p-2 mb-0 font-title text-data"><small><b>Dr. U. G. Potdar & Dr.
+                                                        N. R Deore</b> received a grant of <br><b>Rs. 25,50,800/- from
+                                                        DST-SERB</b> for the project entitled <br><b>"Design &
+                                                        development of miniature liquid fuel film <br>comustor for
+                                                        thermoelectric power generation".</b></small></p>
+                                        </span>
+
+                                        <span class="m-2 bg-white border rounded">
+                                            <img src="vender/files/notices/army_student.png">
+                                            <p class="p-2 mb-0 font-title text-data"><small>One of our Mechanical
+                                                    Engineering 2019 passout student <br><b>Mr. Jaydeep Mahajan</b>
+                                                    Passed UPSC CDS exam Joined <b> Indian <br> Military Academy,
+                                                        Dehradun</b> in Jan 2020 Commissioned into 24th <br> Battalion,
+                                                    The Rajputana Rifles on 12 June 2021. Posted at Jaipur</b></small>
+                                            </p>
+                                        </span>
+                                        <!-- <span class="m-2 bg-white border rounded">
+                                            <img src="vender/files/notices/new_img_ach.jpg">
+                                            <p class="p-2 mb-0 font-title text-data"><small>Prof. Gauri Phadatare, Dr. P. A. Deshmukh & Dr. U. G. Potdar received <br>a grand of Rs. 12,14,406 from AICTE Quality Improvement Schemes (AQIS)<br> for the title "Utilization of Green-clean energy source for the development of a novel hybrid line and point <br> focused solar collector system for biomedical steam sterilization application."</b></small>
+                                            </p>
+                                        </span> -->
+                                        <span class="m-2 bg-white border rounded">
+                                            <img src="vender/files/notices/navy_student.png">
+                                            <p class="p-2 mb-0 font-title text-data"><small>PCCOE Mechanical student in
+                                                    India’s Top exams like UPSC,<br> Army & Navy.<b> Mr. Shubham Nesargi
+                                                    </b>of PCCOE- Mechanical has <br>been selected in <b>Indian Army
+                                                    </b>and started his one year training <br> at Chennai after which he
+                                                    will be <b>Lieutenant in Indian Army.</b></small></p>
+                                        </span>
+                                        <span class="m-2 bg-white border rounded">
+                                            <img src="vender/files/notices/jaya_profile.jpg">
+                                            <a href="vender/files/notices/cetrificate_jaya_goyal.pdf" target="_blank" class="text-decoration-none text-dark">
+                                                <p class="p-2  mb-0 font-title text-data"><small><b>Dr Jaya Goyal</b>
+                                                        cleared the
+                                                        <b>National certification examination</b> for <br>Energy
+                                                        Auditors,
+                                                        conducted by <b>National Productivity
+                                                            Council and <br>Bureau of Energy Efficiency</b> in September
+                                                        2021. She is
+                                                        now <br> entitled as Certfied Energy Auditor and eligible for
+                                                        practicing as <br> Energy Auditor under <b>Energy Conservation
+                                                            Act
+                                                            2001.</b></small>
+                                                </p>
+                                        </span>
+
+
+                                        <!-- <div class="m-2 bg-white border rounded">
                                             <img src="vender/files/notices/tkr_award2resize.jpeg">
                                             <p class="p-2 mb-0 font-title text-data text-wrap"><small><b>Team Kratos Racing</b> (TKR) electric
                                                     of PCCoE Pune secured <b>Overall First Rank</b> in Formula Bharat electric 2022
@@ -458,21 +572,23 @@
                                                         thermoelectric power generation".</b></small></p>
                                         </div>
                                         <div class="m-2 bg-white border rounded">
-                                            <img src="vender/files/notices/army_student.png" >
+                                            <img src="vender/files/notices/army_student.png">
                                             <p class="p-2 mb-0 font-title text-data"><small>One of our Mechanical
                                                     Engineering 2019 passout student <br><b>Mr. Jaydeep Mahajan</b>
                                                     Passed UPSC CDS exam Joined <b> Indian <br> Military Academy,
                                                         Dehradun</b> in Jan 2020 Commissioned into 24th <br> Battalion,
                                                     The Rajputana Rifles on 12 June 2021. Posted at Jaipur</b></small>
                                             </p>
-                                        </div>
-                                
-<!--                                 <div class="m-2 bg-white border rounded" style = "max-width:370px">
+                                        </div> -->
+
+
+
+                                        <!--                                 <div class="m-2 bg-white border rounded" style = "max-width:370px">
                                             <img src="vender/files/notices/new_img_ach.jpg">
                                             <p class="p-2 mb-0 font-title text-data"><small>Prof. Gauri Phadatare, Dr. P. A. Deshmukh & Dr. U. G. Potdar received <br>a grand of Rs. 12,14,406 from AICTE Quality Improvement Schemes (AQIS)<br> for the title "Utilization of Green-clean energy source for the development of a novel hybrid line and point <br> focused solar collector system for biomedical steam sterilization application."</b></small>
                                             </p>
                                         </div> -->
-                                    
+
                                         <!-- <div class="m-2 bg-white border rounded">
                                             <img src="vender/files/notices/navy_student.png">
                                             <p class="p-2 mb-0 font-title text-data"><small>PCCOE Mechanical student in
