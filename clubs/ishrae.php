@@ -258,6 +258,97 @@
         <div class="row my-3">
           <div class="col-lg-8 text-start">
 
+            <p class="text-dark"><span class="fw-bold fs-5">Tree Plantation Activity on ‘Earth Day’ Occasion.</span></p>
+            <p class="text-dark py-2">
+              Tree platation activity was conducted is with NSS & ISHRAE Student member
+              on the occasion of Earth day on 22 April 2022 in PCCoE Campus.
+            </p>
+            <p class="text-dark py-2">
+              For this this activity different dignity from ISHRAE fraternity such as Ar. Anshul
+              Gujarathi( Sustainable energy chair), Siddhant Jain (Youth Chair), Mr. Ulhas Vatpal(Program
+              Chair) Dr. Shitalkumar Rawandale (Student Chair) Abhijeet Pawar (Student Co Chair),
+              Vishal Pawar, Prof. Abhijeet Kore & Prof. Nilesh Gaikwad (Faculty Advisor PCCoE Student
+              chapter) was present.
+            </p>
+            
+
+          </div>
+          <div class="col-lg-4 justify-content-center align-self-center d-flex">
+            <div class="card shadow mb-3">
+              <img src="img\ishrae\is_img15_1.jpg" class="card-img" alt="Image of faculty advisor of Team ambush">
+            </div>
+          </div>
+          <div class="col-lg-3 justify-content-center align-self-center d-flex">
+            <div class="card shadow mb-3" style="max-width: 700px;">
+              <img src="img\ishrae\is_img17_1.jpg" class="card-img" alt="Image of faculty advisor of Team ambush">
+            </div>
+          </div>
+          <div class="col-lg-3 justify-content-center align-self-center d-flex">
+            <div class="card shadow mb-3" style="max-width: 700px;">
+              <img src="img\ishrae\is_img23.jpg" class="card-img" alt="Image of faculty advisor of Team ambush">
+            </div>
+          </div>
+          <div class="col-lg-3 justify-content-center align-self-center d-flex">
+            <div class="card shadow mb-3" style="max-width: 700px;">
+              <img src="img\ishrae\is_img18_1.jpg" class="card-img" alt="Image of faculty advisor of Team ambush">
+            </div>
+          </div>
+          <div class="col-lg-3 justify-content-center align-self-center d-flex">
+            <div class="card shadow mb-3" style="max-width: 700px;">
+              <img src="img\ishrae\is_img16_1.jpg" class="card-img" alt="Image of faculty advisor of Team ambush">
+            </div>
+          </div>
+        </div>
+
+        <div class="border-bottom border-1 border-primary mb-3">
+        </div>
+
+        <div class="row my-3">
+          <div class="col-lg-12 text-start">
+
+            <p class="text-dark"><span class="fw-bold fs-5">Guest lecture on “Symbiosis of Mother Earth & Human Beings”</span></p>
+            <p class="text-dark py-2">
+              We have successfully organized guest lecture on <span class="fw-bold">“Symbiosis of Mother Earth &
+                Human Beings”</span> on occasion of Earth Day, 22nd April 2022 for all students of
+              Engineering & Architecture. The main focus of this session was to aware students that how
+              impact of human activity & system developed by human for his comfort, on environment &
+              what are the remedial action need to taken to make our environment more healthy.
+            </p>
+            <p class="text-dark py-2">
+              For this this program different dignity from ISHRAE fraternity such as Siddhant Jain (Youth
+              Chair), Mr. Ulhas Vatpal(Program Chair) Dr. Shitalkumar Rawandale (Student Chair)
+              Abhijeet Pawar (Student Co Chair), Vishal Pawar, Prof. Abhijeet Kore & Prof. Nilesh
+              Gaikwad (Faculty Advisor PCCoE Student chapter) was present.
+            </p>
+            <p class="text-dark py-2">
+              Guest Details: <span class="fw-bold">1. Ar. Anshul Gujrathi (Director Eco System)</span>
+            </p>
+            <p class="text-dark py-2">
+              Number of participants <span class="fw-bold">120</span>
+            </p>
+
+          </div>
+
+          <div class="col-lg-6 justify-content-center align-self-center d-flex">
+            <div class="card shadow mb-3" style="max-width: 400px; height:auto">
+              <img src="img\ishrae\is_img20.jpg" class="card-img" alt="Image of faculty advisor of Team ambush">
+            </div>
+          </div>
+          <div class="col-lg-6 justify-content-center align-self-center d-flex">
+            <div class="card shadow mb-3" style="max-width: 400px; height:auto">
+              <img src="img\ishrae\is_img22.jpg" class="card-img" alt="Image of faculty advisor of Team ambush">
+            </div>
+          </div>
+
+
+        </div>
+
+        <div class="border-bottom border-1 border-primary mb-3">
+        </div>
+
+        <div class="row my-3">
+          <div class="col-lg-8 text-start">
+
             <p class="text-dark"><span class="fw-bold fs-5">Guest lecture on “Influencer Become an Entrepreneur”</span></p>
             <p class="text-dark py-2">
               We have successfully organized guest lecture on <span class="fw-bold">“Influencer Become an
@@ -274,7 +365,11 @@
             <p class="text-dark py-2">
               Guest Details: <span class="fw-bold">1. Mr. Ulhas Vatpal (Director, Prihoda India Pvt Ltd)</span>
             </p>
-            
+
+            <p class="text-dark py-2">
+              Number of participants <span class="fw-bold">120</span>
+            </p>
+
           </div>
           <div class="col-lg-4 justify-content-center align-self-center d-flex">
             <div class="card shadow mb-3">
