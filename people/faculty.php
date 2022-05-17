@@ -539,7 +539,7 @@
                                     <dd class="col-sm-9 col-8"> 15+ Years</dd> <dt class="col-sm-3 col-4">Area of interest</dt>
                                     <dd class="col-sm-9 col-8">
                                         <p> Heat Power </p>
-                                    </dd> <span class="align-self-center text-muted"> Email&nbsp;:&nbsp;<a href="mailto: neeta.yewale@pccoepune.org " >neeta.yewale@pccoepune.org</a> | Contact&nbsp;:&nbsp;<a href="tel: +918830365147 " > 8830365147 </a> <div class="profile mt-1"><!-- <button class="btn btn-primary btn-sm "> <a href = "#" target="_blank ">Google Scholar Profile</a> </button> --><!-- <button class="btn btn-sm btn-primary "> <a href = "#" target="_blank ">Scopus Profile</a> </button> --> </div></span>                                    </dl>
+                                    </dd> <span class="align-self-center text-muted"> Email&nbsp;:&nbsp;<a href="mailto: neeta.mandhare@pccoepune.org " >neeta.mandhare@pccoepune.org</a> | Contact&nbsp;:&nbsp;<a href="tel: +918830365147 " > 8830365147 </a> <div class="profile mt-1"><!-- <button class="btn btn-primary btn-sm "> <a href = "#" target="_blank ">Google Scholar Profile</a> </button> --><!-- <button class="btn btn-sm btn-primary "> <a href = "#" target="_blank ">Scopus Profile</a> </button> --> </div></span>                                    </dl>
                             </div>
                         </div>
                     </div>
