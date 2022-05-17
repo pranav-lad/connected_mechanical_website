@@ -324,7 +324,7 @@
               Guest Details: <span class="fw-bold">1. Ar. Anshul Gujrathi (Director Eco System)</span>
             </p>
             <p class="text-dark py-2">
-              Number of participants <span class="fw-bold">120</span>
+              Number of participants <span class="fw-bold">145</span>
             </p>
 
           </div>
