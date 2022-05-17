@@ -917,7 +917,7 @@
                         <img src="../faculty photo/Dr. Amrita Francis.jpg" class="card-img" style="width: 150px;" alt="Faculty Image">
                         <br/>
                         <button class="website btn btn-primary mt-3">
-                            <a href = "https://sites.google.com/view/dr-amrita-francis/contact-me?authuser=0" target="_blank">
+                            <a href = "https://sites.google.com/view/dr-amrita-francis/home" target="_blank">
                                 <span class="text-white">Personal Website</span>
                             </a> </button>
                         </div>
