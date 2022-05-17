@@ -445,16 +445,16 @@
                                         </span>
                                         <span class="m-2 bg-white border rounded">
                                             <img src="vender/files/notices/Picture1.png">
-                                            <p class="p-2 pt-4 mb-0 font-title text-data text-wrap"><small><b>Team Solarium</b> Mechanical Engineering
-                                                    of PCCOE Pune have managed to achieve an overall First Rank
-                                                    in <b>"Saur Urja Vehicle Challenge 5.0"</b></small>
+                                            <p class=" pt-4 mb-0 font-title text-data text-wrap"><small><b>Team Solarium</b> Mechanical Engineering
+                                                    of PCCOE Pune <br>have managed to achieve an overall First Rank
+                                                    in <br><b>"Saur Urja Vehicle Challenge 5.0"</b></small>
                                             </p>
                                         </span>
                                         <span class="m-2 bg-white border rounded">
                                             <img src="vender/files/notices/img_13.png">
                                             <p class="p-2 pt-3 mb-0 font-title text-data text-wrap"><small><b>Prof. Gauri Phadtare, Dr. P. A. Deshmukh </b>
-                                                    & <b>Dr. U. G. Potdar</b> received a grand of Rs. 12,14,406 from AICTE Quality Improvement Schemes
-                                                    (AQIS) for the title "Utilization of Green-clean energy source for the development of a novel
+                                                    & <b>Dr. U. G. Potdar</b> received a grand of Rs. 12,14,406 from 
+                                                    AQIS for the title "Utilization of Green-clean energy source for the development of a novel
                                                     hybrid line and point focused solar collector system for biomedical steam sterilization application."</small>
                                             </p>
                                         </span>
