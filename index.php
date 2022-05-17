@@ -453,7 +453,7 @@
                                         <span class="m-2 bg-white border rounded">
                                             <img src="vender/files/notices/img_13.png">
                                             <p class="p-2 pt-3 mb-0 font-title text-data text-wrap"><small><b>Prof. Gauri Phadtare, Dr. P. A. Deshmukh </b>
-                                                    & <b>Dr. U. G. Potdar</b> received a grand of Rs. 12,14,406 from 
+                                                    & <b>Dr. U. G. Potdar</b> received a grand of <b>Rs. 12,14,406</b> from 
                                                     AQIS for the title "Utilization of Green-clean energy source for the development of a novel
                                                     hybrid line and point focused solar collector system for biomedical steam sterilization application."</small>
                                             </p>
