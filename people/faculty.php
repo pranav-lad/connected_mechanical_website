@@ -1062,6 +1062,39 @@
                     </div>
                 </div>
                 <!-- -----------------------------------  -->
+                    <!-- -----------------jaya goyal------------------  -->
+                <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
+                    <div class="col-sm-3 p-2 text-center align-self-center container-fluid">
+                        <img src="../faculty photo/jaya goyal.jpg" class="card-img" style="width: 150px;" alt="Faculty Image"> 
+                        <br/> <button class="website btn btn-primary mt-3"> <a href="#" target="_blank"><span class="text-white">Personal Website</span></a> </button>
+                    </div>
+                    <div class="col-sm-9 align-self-center pt-3">
+                        <h4>Mr. K. G. Malokar</h4>
+                        <div>
+                            <dl class="row"> 
+                                <dt class="col-sm-3 col-4">Designation</dt>
+                                <dd class="col-sm-9 col-8">Assistant Professor</dd>
+                                <dt class="col-sm-3 col-4">Qualification</dt>
+                                <dd class="col-sm-9 col-8">ME Thermal Engineering </dd> 
+                                <dt class="col-sm-3 col-4">Experience</dt>
+                                <dd class="col-sm-9 col-8"> </dd> 
+<!--                                 <dt class="col-sm-3 col-4">Area of interest</dt>
+                                <dd class="col-sm-9 col-8">
+                                    <p>Energy Management, Energy system modelling, Renewable Energy systems.</p>
+                                </dd>  -->
+                                <span class="align-self-center text-muted"> 
+                                    Email&nbsp;:&nbsp;<a href="mailto:kishor.malokar@pccoepune.org">
+                                        kishor.malokar@pccoepune.org</a> | Contact&nbsp;:&nbsp;
+                                        <a href="tel: +919096966683" >9096966683</a>
+                                        <div class="profile mt-1"> 
+<!--                                         <button class="btn btn-primary btn-sm "> <a href="https://scholar.google.com/citations?hl=en&amp;user=u6hAtbgAAAAJ" target="_blank ">Google Scholar Profile</a>
+                                        </button>  -->
+                                        </div></span>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+                <!-- -----------------------------------  -->
             </div>
             <div class="col-md-1"></div>
         </div>
