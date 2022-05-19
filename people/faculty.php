@@ -1078,7 +1078,7 @@
                                 <dt class="col-sm-3 col-4">Qualification</dt>
                                 <dd class="col-sm-9 col-8">ME Thermal Engineering </dd> 
                                 <dt class="col-sm-3 col-4">Experience</dt>
-                                <dd class="col-sm-9 col-8"> </dd> 
+                                <dd class="col-sm-9 col-8"> 6</dd> 
 <!--                                 <dt class="col-sm-3 col-4">Area of interest</dt>
                                 <dd class="col-sm-9 col-8">
                                     <p>Energy Management, Energy system modelling, Renewable Energy systems.</p>
