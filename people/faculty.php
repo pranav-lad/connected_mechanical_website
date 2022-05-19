@@ -1066,7 +1066,8 @@
                 <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
                     <div class="col-sm-3 p-2 text-center align-self-center container-fluid">
                         <img src="../faculty photo/kishor_sir.jpg" class="card-img" style="width: 150px;" alt="Faculty Image"> 
-                        <br/> <button class="website btn btn-primary mt-3"> <a href="#" target="_blank"><span class="text-white">Personal Website</span></a> </button>
+                        <br/> 
+<!--                         <button class="website btn btn-primary mt-3"> <a href="#" target="_blank"><span class="text-white">Personal Website</span></a> </button> -->
                     </div>
                     <div class="col-sm-9 align-self-center pt-3">
                         <h4>Mr. K. G. Malokar</h4>
