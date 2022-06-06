@@ -756,7 +756,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
+<!--                     <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
                         <div class="col-sm-3 p-2 text-center align-self-center container-fluid"> <img src="../faculty photo/PJTipole.jpg " class="card-img" style="width: 150px;" alt="Faculty Image"> <br/> <button class="website btn btn-primary mt-3"> <a href=" https://sites.google.com/view/pralhad-tipole/home " target="_blank"><span class="text-white">Personal Website</span></a> </button>                            </div>
                         <div class="col-sm-9 align-self-center pt-3">
                             <h4>Dr. P. J. Tipole </h4>
@@ -770,7 +770,7 @@
                                     </dd> <span class="align-self-center text-muted"> Email&nbsp;:&nbsp;<a href="mailto: pralhad.tipole@pccoepune.org " >pralhad.tipole@pccoepune.org</a> | Contact&nbsp;:&nbsp;<a href="tel: +919552524393 " > 9552524393 </a> or <a href="tel: +918329657311 " > 8329657311 </a> <div class="profile mt-1"> <button class="btn btn-primary btn-sm "> <a href=" https://www.scopus.com/authid/detail.uri?authorId=57190883447 " target="_blank ">Google Scholar Profile</a> </button></div></span>                                    </dl>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     
                     <!-- -------------------------------------------- -->
                     <div class="row bg-white mx-lg-5 mx-md-3 mx-sm-1 mt-3 rounded">
