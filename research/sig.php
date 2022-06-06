@@ -760,7 +760,7 @@
                 </div>
                 </center>
               </div>
-              <div class="col-lg-4" style="margin-top: 11px;">
+<!--               <div class="col-lg-4" style="margin-top: 11px;">
                 <center>
                 <div class="member shadow bg-light rounded d-flex justify-content-center align-items-center p-4">
                     <div class="member-info">
@@ -774,7 +774,7 @@
                     </div>
                 </div>
                 </center>
-              </div>
+              </div> -->
               <div class="col-lg-4" style="margin-top: 11px;">
                 <center>
                 <div class="member shadow bg-light rounded d-flex justify-content-center align-items-center p-4">
