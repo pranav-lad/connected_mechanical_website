@@ -1,0 +1,4 @@
+[18-May-2023 08:09:40 UTC] PHP Fatal error:  Uncaught Error: Class 'JayBizzle\CrawlerDetect\CrawlerDetect' not found in /home/mechanicalpccoe/public_html/dashboard/login/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mechanicalpccoe/public_html/dashboard/login/index.php on line 15

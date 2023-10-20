@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap:https://mechanical.pccoepune.com/sitemap.xml
+Sitemap:https://mechanical.pccoepune.com/sitemap_1.xml
